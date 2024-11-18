@@ -9,3 +9,5 @@
 [实用宏命令](/Turtle/Macros.md)
 
 ## 正式服
+
+[插件](/Retail/Setup.md)
