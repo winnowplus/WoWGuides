@@ -10,4 +10,4 @@
 
 ## 正式服
 
-[插件](/Retail/Setup.md)
+[客户端 & 插件](/Retail/Setup.md)
