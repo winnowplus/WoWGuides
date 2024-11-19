@@ -34,6 +34,7 @@
     | aux-addon                 | 拍卖行增强       | <https://github.com/gwetchen/aux-addon.git>                          |
     | *BetterCharacterStats     | 角色界面增强     | <https://github.com/NineTears/BetterCharacterStats.git>              |
     | DPSMate                   | 战斗记录分析     | <https://github.com/Fedilious/DPSMate.git>                           |
+    | Mail                      | 邮件增强         | <https://github.com/EinBaum/Mail.git>                                |
     | Outfitter                 | 装备方案         | <https://github.com/Lexiebean/Outfitter.git>                         |
     | pfQuest                   | 任务助手         | <https://github.com/shagu/pfQuest.git>                               |
     | pfQuest-turtle            | 乌龟服任务数据库 | <https://github.com/NineTears/pfQuest-turtle.git>                    |
@@ -52,6 +53,7 @@
     | aux-addon                 | 拍卖行增强       | <https://github.com/gwetchen/aux-addon.git>                   |
     | BetterCharacterStats      | 角色界面增强     | <https://github.com/pepopo978/BetterCharacterStats.git>       |
     | DPSMate                   | 战斗记录分析     | <https://github.com/Fedilious/DPSMate.git>                    |
+    | Mail                      | 邮件增强         | <https://github.com/EinBaum/Mail.git>                         |
     | Outfitter                 | 装备方案         | <https://github.com/Lexiebean/Outfitter.git>                  |
     | pfQuest                   | 任务助手         | <https://github.com/shagu/pfQuest.git>                        |
     | pfQuest-turtle            | 乌龟服任务数据库 | <https://github.com/shagu/pfQuest-turtle.git>                 |
