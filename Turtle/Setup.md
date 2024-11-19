@@ -2,10 +2,10 @@
 
 ## 1. 客户端
 
-| 区域 | 下载地址                                        |
-| :--- | :---------------------------------------------- |
-| 亚服 | <https://cndl.turtle-wow.org/twmoa_1172_cn.zip> |
-| 欧服 | <https://turtle-eu.b-cdn.net/twmoa_1172.zip>    |
+| 区域 | 下载地址                                            |
+| :--- | :-------------------------------------------------- |
+| 亚服 | <https://cndl.turtle-wow.org/twmoa_1172_cn_new.zip> |
+| 欧服 | <https://turtle-eu.b-cdn.net/twmoa_1172.zip>        |
 
 ## 2. 插件
 
