@@ -5,7 +5,7 @@
 | 区域 | 下载地址                                            |
 | :--- | :-------------------------------------------------- |
 | 亚服 | <https://cndl.turtle-wow.org/twmoa_1172_cn_new.zip> |
-| 欧服 | <https://turtle-eu.b-cdn.net/twmoa_1172.zip>        |
+| 欧服 | <https://eudl.turtle-wow.org/twmoa_1172.zip>        |
 
 ## 2. 插件
 
@@ -33,6 +33,7 @@
     | AtlasQuest                | 副本任务         | <https://github.com/NineTears/AtlasQuest.git>                        |
     | aux-addon                 | 拍卖行增强       | <https://github.com/gwetchen/aux-addon.git>                          |
     | *BetterCharacterStats     | 角色界面增强     | <https://github.com/NineTears/BetterCharacterStats.git>              |
+    | BigWigs                   | 副本警报         | <https://github.com/winnowplus/BigWigs-Turtle-zhCN-Standalone.git>   |
     | DPSMate                   | 战斗记录分析     | <https://github.com/Fedilious/DPSMate.git>                           |
     | Mail                      | 邮件增强         | <https://github.com/EinBaum/Mail.git>                                |
     | Outfitter                 | 装备方案         | <https://github.com/Lexiebean/Outfitter.git>                         |
@@ -52,6 +53,7 @@
     | AtlasQuest                | 副本任务         | <https://github.com/Nonameby/AtlasQuest.git>                  |
     | aux-addon                 | 拍卖行增强       | <https://github.com/gwetchen/aux-addon.git>                   |
     | BetterCharacterStats      | 角色界面增强     | <https://github.com/pepopo978/BetterCharacterStats.git>       |
+    | BigWigs                   | 副本警报         | <https://github.com/madScripting/BigWigs-TurtleWoW.git>       |
     | DPSMate                   | 战斗记录分析     | <https://github.com/Fedilious/DPSMate.git>                    |
     | Mail                      | 邮件增强         | <https://github.com/EinBaum/Mail.git>                         |
     | Outfitter                 | 装备方案         | <https://github.com/Lexiebean/Outfitter.git>                  |
