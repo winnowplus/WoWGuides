@@ -6,6 +6,8 @@
 
 [附魔](/Turtle/Enchant.md)
 
+[藏品](/Turtle/Collections.md)
+
 [实用宏命令](/Turtle/Macros.md)
 
 ## 正式服
