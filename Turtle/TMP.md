@@ -1,5 +1,24 @@
 # 临时自用
 
+## 待考察插件
+
++ _AntInvite - 阻止 15 级以下人员的邀请
++ ActionButtonUtils - 高亮动作条图标
++ aDF - 显示目标的防御信息，包括护甲、抗性和特定减益
++ BetterCharacterStats - 属性页面增强
++ CCWatch - 控制时间条
++ Channel monitor - 监控聊天频道的特定关键字
++ ChroniclesBuffAssignments - 自动分配团队 Buff，分配结果可以粘贴到聊天框
++ CleveRoidMacros - CleverMacro + Roid-Macros
++ DebuffFilter - 过滤出重要的Debuff单独显示，类似 PowerAura
++ Decursive - 一键驱散
++ Distance - 基于 Player 各类法术的施法距离估算目标距离
++ EasyCloak - 黑龙披风助手
++ EnemyFrames - 战场敌对框架
++ Flyout - 弹出式法术菜单
++ FocusFrame - 焦点支持
++ SimpleActionSets
+
 ## 战场
 
 排队
