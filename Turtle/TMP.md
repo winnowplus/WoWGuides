@@ -14,6 +14,26 @@
 /script local C = VP_Gear_Coll; XyExportEdit:SetText(ExportGearStats(C.T35Paladin_Holy, C.T3Paladin_Holy, 16951, 16956, 16952, 21604, 20264, 21582));XyExportFrame:Show();
 ```
 
+## 附魔检查
+
+惩戒骑士Pvp
+
+```txt
+/script local expect = {2584,928,2716,0,1891,92,2584,1068,1886,2564,928,928,0,0,849,1900}; for s,e in ipairs(expect) do InspectInventoryEnchant("player", s, e); end
+```
+
+惩戒骑士Pve
+
+```txt
+/script local expect = {3016,928,2716,0,1891,92,3016,1887,1885,2564,928,928,0,0,849,1900}; for s,e in ipairs(expect) do InspectInventoryEnchant("player", s, e); end
+```
+
+神圣骑士
+
+```txt
+/script local expect = {2584,96,2715,0,1891,359,2584,1068,2566,2617,96,96,0,0,1888,2505,929}; for s,e in ipairs(expect) do InspectInventoryEnchant("player", s, e); end
+```
+
 ## 待考察插件
 
 + _AntInvite - 阻止 15 级以下人员的邀请
