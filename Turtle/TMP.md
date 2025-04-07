@@ -1,5 +1,19 @@
 # 临时自用
 
+## 装备导出
+
+惩戒骑士
+
+```txt
+/script local C = VP_Gear_Coll; XyExportEdit:SetText(ExportGearStats(C.T35Paladin_Retribution, C.T3Paladin_Retribution, C.AQ40Paladin_Retribution, C.PVPPaladin, 21623, 23667, 23668));XyExportFrame:Show();
+```
+
+神圣骑士
+
+```txt
+/script local C = VP_Gear_Coll; XyExportEdit:SetText(ExportGearStats(C.T35Paladin_Holy, C.T3Paladin_Holy, 16951, 16956, 16952, 21604, 20264, 21582));XyExportFrame:Show();
+```
+
 ## 待考察插件
 
 + _AntInvite - 阻止 15 级以下人员的邀请
