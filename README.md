@@ -6,7 +6,7 @@
 
 [附魔](/Turtle/Enchant.md) | [藏品](/Turtle/Collections.md)
 
-[标准化武器伤害](/Turtle/Wiki&nbsp;Normalized&nbsp;Weapon&nbsp;Damage.md)
+[标准化武器伤害](/Turtle/Wiki%20Normalized%20Weapon%20Damage.md)
 
 ## 正式服
 
