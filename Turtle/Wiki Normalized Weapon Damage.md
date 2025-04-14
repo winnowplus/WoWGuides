@@ -35,4 +35,5 @@ normalized_weapon_damage = base_weapon_damage + (X * AP / 14)
 
 ---
 <https://wowpedia.fandom.com/wiki/Normalization>
+
 <https://vanilla-wow-archive.fandom.com/wiki/Normalization>
