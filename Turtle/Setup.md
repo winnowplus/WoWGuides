@@ -45,7 +45,7 @@
     | AtlasLoot            | 副本掉落         | <https://github.com/winnowplus/AtlasLoot-Turtle-zhCN-Standalone.git> |
     | AtlasQuest           | 副本任务         | <https://gitee.com/twow-cn/AtlasQuest.git>                           |
     | BetterCharacterStats | 角色界面增强     | <https://gitee.com/twow-cn/BetterCharacterStats.git>                 |
-    | BigWigs              | 副本警报         | <https://gitee.com/twow-cn/BigWigs.git>                              |
+    | BigWigs              | 副本警报         | <https://github.com/winnowplus/BigWigs-Turtle-zhCN-Standalone>       |
     | pfQuest-turtle       | 乌龟服任务数据库 | <https://gitee.com/twow-cn/pfQuest-turtle.git>                       |
 
 + 英文客户端
