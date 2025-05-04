@@ -11,7 +11,7 @@
 
 ### 2.1. 插件管理器
 
-[GitAddonsManager](https://woblight.gitlab.io/overview/gitaddonsmanager/) 用于从 Git 仓库安装插件。若有加速访问 Github 的需求，可以从 Microsoft Store 安装 Watt Toolkit。
+[GitAddonsManager](https://woblight.gitlab.io/overview/gitaddonsmanager/) 用于从 Git 仓库更新插件。 *从 Microsoft Store 安装 Watt Toolkit 加速访问 Github。*
 
 + 在 Options 标签页点击 Add directory 添加插件文件夹
 
