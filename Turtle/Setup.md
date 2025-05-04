@@ -42,11 +42,11 @@
 
 + 中文客户端
 
-    | 名称                 | 简介         | URL                                                            |
-    | :------------------- | :----------- | :------------------------------------------------------------- |
-    | AtlasQuest           | 副本任务     | <https://gitee.com/twow-cn/AtlasQuest.git>                     |
-    | BetterCharacterStats | 角色界面增强 | <https://gitee.com/twow-cn/BetterCharacterStats.git>           |
-    | BigWigs              | 副本警报     | <https://github.com/winnowplus/BigWigs-Turtle-zhCN-Standalone> |
+    | 名称                 | 简介         | URL                                                                |
+    | :------------------- | :----------- | :----------------------------------------------------------------- |
+    | AtlasQuest           | 副本任务     | <https://gitee.com/twow-cn/AtlasQuest.git>                         |
+    | BetterCharacterStats | 角色界面增强 | <https://gitee.com/twow-cn/BetterCharacterStats.git>               |
+    | BigWigs              | 副本警报     | <https://github.com/winnowplus/BigWigs-Turtle-zhCN-Standalone.git> |
 
 + 英文客户端
 
