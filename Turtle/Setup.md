@@ -35,27 +35,26 @@
     | Mail                      | 邮件增强         | <https://github.com/EinBaum/Mail.git>                         |
     | Outfitter                 | 装备方案         | <https://github.com/pepopo978/Outfitter.git>                  |
     | pfQuest                   | 任务助手         | <https://github.com/shagu/pfQuest.git>                        |
+    | pfQuest-turtle            | 乌龟服任务数据库 | <https://github.com/shagu/pfQuest-turtle.git>                 |
     | pfUI                      | 界面增强         | <https://github.com/shagu/pfUI.git>                           |
     | pfUI-eliteoverlay         |                  | <https://github.com/shagu/pfUI-eliteoverlay.git>              |
     | VanillaStoryline          | 沉浸式任务对话   | <https://github.com/tubtubs/VanillaStoryline.git>             |
 
 + 中文客户端
 
-    | 名称                 | 简介             | URL                                                            |
-    | :------------------- | :--------------- | :------------------------------------------------------------- |
-    | AtlasQuest           | 副本任务         | <https://gitee.com/twow-cn/AtlasQuest.git>                     |
-    | BetterCharacterStats | 角色界面增强     | <https://gitee.com/twow-cn/BetterCharacterStats.git>           |
-    | BigWigs              | 副本警报         | <https://github.com/winnowplus/BigWigs-Turtle-zhCN-Standalone> |
-    | pfQuest-turtle       | 乌龟服任务数据库 | <https://gitee.com/twow-cn/pfQuest-turtle.git>                 |
+    | 名称                 | 简介         | URL                                                            |
+    | :------------------- | :----------- | :------------------------------------------------------------- |
+    | AtlasQuest           | 副本任务     | <https://gitee.com/twow-cn/AtlasQuest.git>                     |
+    | BetterCharacterStats | 角色界面增强 | <https://gitee.com/twow-cn/BetterCharacterStats.git>           |
+    | BigWigs              | 副本警报     | <https://github.com/winnowplus/BigWigs-Turtle-zhCN-Standalone> |
 
 + 英文客户端
 
-    | 名称                 | 简介             | URL                                                     |
-    | :------------------- | :--------------- | :------------------------------------------------------ |
-    | AtlasQuest           | 副本任务         | <https://github.com/Otari98/AtlasQuest.git>             |
-    | BetterCharacterStats | 角色界面增强     | <https://github.com/pepopo978/BetterCharacterStats.git> |
-    | BigWigs              | 副本警报         | <https://github.com/pepopo978/BigWigs.git>              |
-    | pfQuest-turtle       | 乌龟服任务数据库 | <https://github.com/shagu/pfQuest-turtle.git>           |
+    | 名称                 | 简介         | URL                                                     |
+    | :------------------- | :----------- | :------------------------------------------------------ |
+    | AtlasQuest           | 副本任务     | <https://github.com/Otari98/AtlasQuest.git>             |
+    | BetterCharacterStats | 角色界面增强 | <https://github.com/pepopo978/BetterCharacterStats.git> |
+    | BigWigs              | 副本警报     | <https://github.com/pepopo978/BigWigs.git>              |
 
 ## 3. 选项设置（个人向）
 
