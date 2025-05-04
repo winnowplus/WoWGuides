@@ -29,9 +29,9 @@
     | :------------------------ | :--------------- | :------------------------------------------------------------ |
     | AdvancedTradeSkillWindow2 | 专业技能界面增强 | <https://github.com/Shellyoung/AdvancedTradeSkillWindow2.git> |
     | aux-addon                 | 拍卖行增强       | <https://github.com/gwetchen/aux-addon.git>                   |
-    | DPSMate                   | 战斗记录分析     | <https://github.com/Fedilious/DPSMate.git>                    |
+    | DPSMate                   | 战斗记录分析     | <https://github.com/laytya/DPSMate.git>                       |
     | Mail                      | 邮件增强         | <https://github.com/EinBaum/Mail.git>                         |
-    | Outfitter                 | 装备方案         | <https://github.com/Lexiebean/Outfitter.git>                  |
+    | Outfitter                 | 装备方案         | <https://github.com/pepopo978/Outfitter.git>                  |
     | pfQuest                   | 任务助手         | <https://github.com/shagu/pfQuest.git>                        |
     | pfUI                      | 界面增强         | <https://github.com/shagu/pfUI.git>                           |
     | pfUI-eliteoverlay         |                  | <https://github.com/shagu/pfUI-eliteoverlay.git>              |
@@ -52,11 +52,11 @@
 
     | 名称                 | 简介             | URL                                                     |
     | :------------------- | :--------------- | :------------------------------------------------------ |
-    | Atlas                | 副本地图         | <https://github.com/Nonameby/Atlas.git>                 |
-    | AtlasLoot            | 副本掉落         | <https://github.com/Lexiebean/AtlasLoot.git>            |
-    | AtlasQuest           | 副本任务         | <https://github.com/Nonameby/AtlasQuest.git>            |
+    | Atlas                | 副本地图         | <https://github.com/Otari98/Atlas.git>                  |
+    | AtlasLoot            | 副本掉落         | <https://github.com/Otari98/AtlasLoot.git>              |
+    | AtlasQuest           | 副本任务         | <https://github.com/Otari98/AtlasQuest.git>             |
     | BetterCharacterStats | 角色界面增强     | <https://github.com/pepopo978/BetterCharacterStats.git> |
-    | BigWigs              | 副本警报         | <https://github.com/madScripting/BigWigs-TurtleWoW.git> |
+    | BigWigs              | 副本警报         | <https://github.com/pepopo978/BigWigs.git>              |
     | pfQuest-turtle       | 乌龟服任务数据库 | <https://github.com/shagu/pfQuest-turtle.git>           |
 
 ## 3. 选项设置（个人向）
