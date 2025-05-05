@@ -27,16 +27,16 @@
 
     | 名称                      | 简介             | URL                                                           |
     | :------------------------ | :--------------- | :------------------------------------------------------------ |
-    | AdvancedTradeSkillWindow2 | 专业技能界面增强 | <https://github.com/Shellyoung/AdvancedTradeSkillWindow2.git> |
+    | AdvancedTradeSkillWindow2 | 专业界面增强     | <https://github.com/Shellyoung/AdvancedTradeSkillWindow2.git> |
     | Atlas                     | 副本地图         | <https://github.com/Otari98/Atlas.git>                        |
-    | AtlasLoot                 | 副本掉落         | <https://github.com/Otari98/AtlasLoot.git>                    |
+    | AtlasLoot                 | 副本战利品       | <https://github.com/Otari98/AtlasLoot.git>                    |
     | aux-addon                 | 拍卖行增强       | <https://github.com/gwetchen/aux-addon.git>                   |
-    | DPSMate                   | 战斗记录分析     | <https://github.com/laytya/DPSMate.git>                       |
+    | DPSMate                   | 战斗统计         | <https://github.com/laytya/DPSMate.git>                       |
     | Mail                      | 邮件增强         | <https://github.com/EinBaum/Mail.git>                         |
     | Outfitter                 | 装备方案         | <https://github.com/pepopo978/Outfitter.git>                  |
     | pfQuest                   | 任务助手         | <https://github.com/shagu/pfQuest.git>                        |
     | pfQuest-turtle            | 乌龟服任务数据库 | <https://github.com/shagu/pfQuest-turtle.git>                 |
-    | pfUI                      | 界面增强         | <https://github.com/shagu/pfUI.git>                           |
+    | pfUI                      | 用户界面替换     | <https://github.com/shagu/pfUI.git>                           |
     | pfUI-eliteoverlay         |                  | <https://github.com/shagu/pfUI-eliteoverlay.git>              |
     | VanillaStoryline          | 沉浸式任务对话   | <https://github.com/tubtubs/VanillaStoryline.git>             |
 
