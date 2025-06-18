@@ -63,7 +63,7 @@
 |           | [**明亮灰烬石**](https://database.turtle-wow.org/?item=56004)       | 火焰伤害+6         |
 |           | [**魔化翡翠**](https://database.turtle-wow.org/?item=56018)         | 自然伤害+9         |
 |           | [**辉光蓝宝石**](https://database.turtle-wow.org/?item=56057)       | 冰霜伤害+9         |
-|           | [奥术翡翠](https://database.turtle-wow.org/?item=56016)             | 法术伤害+5         |
+|           | [**奥术翡翠**](https://database.turtle-wow.org/?item=56016)         | 法术伤害+5         |
 |           | [璀璨玛瑙](https://database.turtle-wow.org/?item=56074)             | 法术穿透+6         |
 |           | [**优雅翡翠**](https://database.turtle-wow.org/?item=56009)         | 自然抗性+8         |
 |           | [**不稳定的奥术宝石**](https://database.turtle-wow.org/?item=56011) | 奥术抗性+8         |
