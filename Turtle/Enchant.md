@@ -1,6 +1,6 @@
 # 魔兽世界乌龟服 | 附魔
 
-## 头部腿部附魔
+## 头部腿部
 
 | EnchantId | 名称                                                            | 效果                                                    |
 | :-------- | :-------------------------------------------------------------- | :------------------------------------------------------ |
@@ -26,9 +26,9 @@
 |           | [急速秘药](http://db.nfuwow.com/60/?item=18329)                 | 攻击速度+1%                                             |
 |           | [专注秘药](http://db.nfuwow.com/60/?item=18330)                 | 法术强度+12 (香草版本 +8)                               |
 |           | [防护秘药](http://db.nfuwow.com/60/?item=18331)                 | 躲闪几率+1%                                             |
-|           | [**凶猛赐福**](https://database.turtle-wow.org/?item=61081)     | 仅头部附魔，进入猎豹形态获得20能量，进入熊形态获得5怒气 |
+|           | [**凶猛赐福**](https://database.turtle-wow.org/?item=61081)     | **仅头部**，进入猎豹形态获得20能量，进入熊形态获得5怒气 |
 
-## 肩部附魔
+## 肩部
 
 | EnchantId | 名称                                                              | 效果                            |
 | :-------- | :---------------------------------------------------------------- | :------------------------------ |
@@ -40,10 +40,36 @@
 |           | [赞达拉力量徽记](http://db.nfuwow.com/60/?item=20077)             | 攻击强度+30                     |
 |           | [赞达拉宁静徽记](http://db.nfuwow.com/60/?item=20078)             | 治疗效果+33                     |
 |           | [**赞达拉毅力印记**](https://database.turtle-wow.org/?item=65033) | 耐力+14                         |
-|           | [多彩黎明衬肩](http://db.nfuwow.com/60/?item=18182)               | 所有魔法抗性+5                  |
 |           | [**吸血符印**](https://database.turtle-wow.org/?item=61436)       | 吸血+2%                         |
 |           | [**敏捷符印**](https://database.turtle-wow.org/?item=61437)       | 急速+2%                         |
 |           | [**穿透符印**](https://database.turtle-wow.org/?item=61438)       | 护甲穿透+40                     |
+|           | [多彩黎明衬肩](http://db.nfuwow.com/60/?item=18182)               | 所有抗性+5                      |
+
+## 项链戒指
+
+| EnchantId | 名称                                                                | 效果               |
+| :-------- | :------------------------------------------------------------------ | :----------------- |
+|           | [艾泽拉斯红玉](https://database.turtle-wow.org/?item=56015)         | 力量+6             |
+|           | [**闪耀白玉**](https://database.turtle-wow.org/?item=56008)         | 敏捷+6             |
+|           | [**淬火艾泽拉斯钻石**](https://database.turtle-wow.org/?item=56017) | 耐力+6             |
+|           | [**辉煌蓝宝石**](https://database.turtle-wow.org/?item=56007)       | 智力+6             |
+|           | [**幻光宝玉**](https://database.turtle-wow.org/?item=56005)         | 精神+4             |
+|           | [惊艳帝王石](https://database.turtle-wow.org/?item=56014)           | 所有属性+3         |
+|           | [**柔韧奥术石**](https://database.turtle-wow.org/?item=56076)       | 护甲+40            |
+|           | [华丽山地宝石](https://database.turtle-wow.org/?item=61818)         | 格挡率+1%          |
+|           | [**绚丽宝钻**](https://database.turtle-wow.org/?item=56010)         | 治疗效果+12        |
+|           | [**苏生黄玉**](https://database.turtle-wow.org/?item=56077)         | 每5秒恢复2点法力值 |
+|           | [**炽热红宝石**](https://database.turtle-wow.org/?item=56006)       | 吸血+1%            |
+|           | [**明亮灰烬石**](https://database.turtle-wow.org/?item=56004)       | 火焰伤害+6         |
+|           | [**魔化翡翠**](https://database.turtle-wow.org/?item=56018)         | 自然伤害+9         |
+|           | [**辉光蓝宝石**](https://database.turtle-wow.org/?item=56057)       | 冰霜伤害+9         |
+|           | [奥术翡翠](https://database.turtle-wow.org/?item=56016)             | 法术伤害+5         |
+|           | [璀璨玛瑙](https://database.turtle-wow.org/?item=56074)             | 法术穿透+6         |
+|           | [**优雅翡翠**](https://database.turtle-wow.org/?item=56009)         | 自然抗性+8         |
+|           | [**不稳定的奥术宝石**](https://database.turtle-wow.org/?item=56011) | 奥术抗性+8         |
+|           | [**幽影墨玉**](https://database.turtle-wow.org/?item=56012)         | 火焰抗性+8         |
+|           | [**深沉白玉**](https://database.turtle-wow.org/?item=56075)         | 暗影抗性+8         |
+|           | [漆黑曜石](https://database.turtle-wow.org/?item=56013)             | 所有抗性+3         |
 
 ## 商业技能提供
 
