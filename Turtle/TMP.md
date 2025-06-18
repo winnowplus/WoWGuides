@@ -39,7 +39,6 @@
 + _AntInvite - 阻止 15 级以下人员的邀请
 + ActionButtonUtils - 高亮动作条图标
 + aDF - 显示目标的防御信息，包括护甲、抗性和特定减益
-+ BetterCharacterStats - 属性页面增强
 + CCWatch - 控制时间条
 + Channel monitor - 监控聊天频道的特定关键字
 + ChroniclesBuffAssignments - 自动分配团队 Buff，分配结果可以粘贴到聊天框
