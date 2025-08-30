@@ -82,7 +82,7 @@
   /clearfocus [@focus, dead]
   /cleartarget [@focus, noexists]
   /targetenemy [@focus, noexists]
-  /cast [@focus, harm, nodea, combat][combat]责难;分解;
+  /cast [@focus, harm, nodead, combat][combat]责难;分解;
   /targetlasttarget [@focus, noexists]
   /startattack
   ```

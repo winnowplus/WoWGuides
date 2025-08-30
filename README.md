@@ -11,3 +11,4 @@
 ## 正式服
 
 [客户端 & 插件](/Retail/Setup.md)
+[实用宏命令](/Retail/Macros.md)
