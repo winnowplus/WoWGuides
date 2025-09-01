@@ -103,7 +103,7 @@
   ```text
   #showtooltips
   /cast [mod, known:盲目之光]盲目之光;[mod, known:忏悔]忏悔;[mod]制裁之锤;
-  /castsequence [known:神圣之锤, @player] reset=10 最终清算,灰烬觉醒,灰烬觉醒,圣洁鸣钟,灰烬觉醒;
-  /cast [known:处决宣判]处决宣判;[known:最终清算, @player]最终清算;[known:神圣棱镜]神圣棱镜;
+  /castsequence [known:最终清算, @player] reset=10 最终清算,灰烬觉醒,灰烬觉醒,圣洁鸣钟,灰烬觉醒;
+  /castsequence [known:处决宣判] reset=10 处决宣判,灰烬觉醒,灰烬觉醒,圣洁鸣钟,灰烬觉醒;
   /use [nomod]13;
   ```
