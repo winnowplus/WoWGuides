@@ -1,11 +1,11 @@
-# 魔兽世界乌龟服 | 客户端 & 插件
+# 魔兽世界香草服 | 客户端 & 插件
 
 ## 1. 客户端
 
-| 区域 | 下载地址                                            |
-| :--- | :-------------------------------------------------- |
-| 亚服 | <https://cndl.turtle-wow.org/twmoa_1172_cn_new.zip> |
-| 欧服 | <https://eudl.turtle-wow.org/twmoa_1172.zip>        |
+| 区域 | 下载地址                                         |
+| :--- | :----------------------------------------------- |
+| 亚服 | <https://cndln.turtle-wow.org/twmoa_1180_cn.zip> |
+| 欧服 | <https://eudl.turtle-wow.org/twmoa_1180.zip>     |
 
 ## 2. 插件
 
@@ -25,28 +25,28 @@
 
 + 通用
 
-    | 名称                      | 简介             | URL                                                           |
-    | :------------------------ | :--------------- | :------------------------------------------------------------ |
-    | AdvancedTradeSkillWindow2 | 专业界面增强     | <https://github.com/Shellyoung/AdvancedTradeSkillWindow2.git> |
-    | Atlas                     | 副本地图         | <https://github.com/Otari98/Atlas.git>                        |
-    | AtlasLoot                 | 副本战利品       | <https://github.com/Otari98/AtlasLoot.git>                    |
-    | aux-addon                 | 拍卖行增强       | <https://github.com/gwetchen/aux-addon.git>                   |
-    | DPSMate                   | 战斗统计         | <https://github.com/laytya/DPSMate.git>                       |
-    | Mail                      | 邮件增强         | <https://github.com/EinBaum/Mail.git>                         |
-    | Outfitter                 | 装备方案         | <https://github.com/pepopo978/Outfitter.git>                  |
-    | pfQuest                   | 任务助手         | <https://github.com/shagu/pfQuest.git>                        |
-    | pfQuest-turtle            | 乌龟服任务数据库 | <https://github.com/shagu/pfQuest-turtle.git>                 |
-    | pfUI                      | 用户界面替换     | <https://github.com/shagu/pfUI.git>                           |
-    | pfUI-eliteoverlay         |                  | <https://github.com/shagu/pfUI-eliteoverlay.git>              |
-    | VanillaStoryline          | 沉浸式任务对话   | <https://github.com/tubtubs/VanillaStoryline.git>             |
+    | 名称                      | 简介           | URL                                                           |
+    | :------------------------ | :------------- | :------------------------------------------------------------ |
+    | AdvancedTradeSkillWindow2 | 专业界面增强   | <https://github.com/Shellyoung/AdvancedTradeSkillWindow2.git> |
+    | Atlas                     | 副本地图       | <https://github.com/Otari98/Atlas.git>                        |
+    | AtlasLoot                 | 副本战利品     | <https://github.com/Otari98/AtlasLoot.git>                    |
+    | Aux-Revamped              | 拍卖行增强     | <https://github.com/Nelethor/Aux-Revamped.git>                |
+    | DPSMate                   | 战斗统计       | <https://github.com/laytya/DPSMate.git>                       |
+    | Outfitter                 | 装备方案       | <https://github.com/pepopo978/Outfitter.git>                  |
+    | pfQuest                   | 任务助手       | <https://github.com/shagu/pfQuest.git>                        |
+    | pfQuest-turtle            | 乌龟任务数据库 | <https://github.com/shagu/pfQuest-turtle.git>                 |
+    | pfUI                      | 用户界面替换   | <https://github.com/shagu/pfUI.git>                           |
+    | pfUI-eliteoverlay         |                | <https://github.com/shagu/pfUI-eliteoverlay.git>              |
+    | TurtleMail                | 邮件增强       | <https://github.com/sica42/TurtleMail.git>                    |
+    | VanillaStoryline          | 沉浸式任务对话 | <https://github.com/tubtubs/VanillaStoryline.git>             |
 
 + 中文客户端
 
-    | 名称                 | 简介         | URL                                                                |
-    | :------------------- | :----------- | :----------------------------------------------------------------- |
-    | AtlasQuest           | 副本任务     | <https://gitee.com/twow-cn/AtlasQuest.git>                         |
-    | BetterCharacterStats | 角色界面增强 | <https://gitee.com/twow-cn/BetterCharacterStats.git>               |
-    | BigWigs              | 副本警报     | <https://github.com/winnowplus/BigWigs-Turtle-zhCN-Standalone.git> |
+    | 名称                 | 简介         | URL                                                  |
+    | :------------------- | :----------- | :--------------------------------------------------- |
+    | AtlasQuest           | 副本任务     | <https://gitee.com/twow-cn/AtlasQuest.git>           |
+    | BetterCharacterStats | 角色界面增强 | <https://gitee.com/twow-cn/BetterCharacterStats.git> |
+    | BigWigs              | 副本警报     | <https://gitee.com/twow-cn/BigWigs.git>              |
 
 + 英文客户端
 

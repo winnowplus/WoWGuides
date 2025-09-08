@@ -79,7 +79,6 @@
   
   ```text
   #showtooltips
-  /clearfocus [@focus, dead]
   /cleartarget [@focus, noexists]
   /targetenemy [@focus, noexists]
   /cast [@focus, harm, nodead, combat][combat]责难;分解;
@@ -93,7 +92,7 @@
   #showtooltips
   /cleartarget
   /targetenemy
-  /cast 复仇者之盾;
+  /cast []复仇者之盾;
   /targetlasttarget
   /startattack
   ```
