@@ -1,15 +1,8 @@
-# 魔兽世界香草服 | 客户端 & 插件
+# 魔兽世界香草服 | 插件
 
-## 1. 客户端
+## 1. 插件
 
-| 区域 | 下载地址                                         |
-| :--- | :----------------------------------------------- |
-| 亚服 | <https://cndln.turtle-wow.org/twmoa_1180_cn.zip> |
-| 欧服 | <https://eudl.turtle-wow.org/twmoa_1180.zip>     |
-
-## 2. 插件
-
-### 2.1. 插件管理器
+### 1.1. 插件管理器
 
 [GitAddonsManager](https://woblight.gitlab.io/overview/gitaddonsmanager/) 用于从 Git 仓库更新插件。 *从 Microsoft Store 安装 Watt Toolkit 加速访问 Github。*
 
@@ -21,7 +14,7 @@
 
   ![GitAddonsManager_Options](/Images/GitAddonsManager_Addons.jpg)
 
-### 2.2. 推荐插件
+### 1.2. 推荐插件
 
 + 通用
 
@@ -56,9 +49,9 @@
     | BetterCharacterStats | 角色界面增强 | <https://github.com/pepopo978/BetterCharacterStats.git> |
     | BigWigs              | 副本警报     | <https://github.com/pepopo978/BigWigs.git>              |
 
-## 3. 选项设置（个人向）
+## 2. 选项设置（个人向）
 
-### 3.1. 游戏设置
+### 2.1. 游戏设置
 
 + 视频设置
   + 分辨率：1920×1080 (宽屏)
@@ -76,7 +69,7 @@
   + 显示
     + 显示本人名字：√
 
-### 3.2. pfQuest
+### 2.2. pfQuest
 
 + 常规
   + 显示数据库 ID：√
@@ -86,11 +79,11 @@
 + 路径
   + 沿路径显示箭头：×
 
-### 3.3. pfUI
+### 2.3. pfUI
 
 以预设配置 **Legacy** 为基准，进行如下设置。
 
-#### 3.3.1. 一般设置
+#### 2.3.1. 一般设置
 
 + 头像框架
   + 点击施法
@@ -132,7 +125,7 @@
 + 组件
   + 皮肤 - 禁用皮肤 Gossip and Quest：√
 
-#### 3.3.2. 布局设置
+#### 2.3.2. 布局设置
 
 | 框体               | 属性                     | 布局               |
 | :----------------- | :----------------------- | :----------------- |
@@ -163,7 +156,7 @@
 |                    |                          |                    |
 | QuestTimerFrame    |                          | RIGHT (0, 192)     |
 
-#### 3.3.3. 配置字符串
+#### 2.3.3. 配置字符串
 
 不忽略布局：
 
@@ -248,7 +241,7 @@ dgCBARgC2wLXATUALgA0AC4AbQJ4ARIBsAIbAeYB8wINAgwB9QISAW8ABQNyAOcBlwHjAsoCCQIiAEUA
 A+cB7QKtAvYCfgEYAnQAaQAIA8IBqwIsAQIDCgB9AAoA
 ```
 
-### 3.4. 其他插件
+### 2.4. 其他插件
 
 + DPSMate
   + 锁定窗口：√
