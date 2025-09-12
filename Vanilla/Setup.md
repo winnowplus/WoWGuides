@@ -21,8 +21,6 @@
     | 名称                      | 简介           | URL                                                           |
     | :------------------------ | :------------- | :------------------------------------------------------------ |
     | AdvancedTradeSkillWindow2 | 专业技能增强   | <https://github.com/Shellyoung/AdvancedTradeSkillWindow2.git> |
-    | Atlas                     | 副本地图       | <https://github.com/Otari98/Atlas.git>                        |
-    | AtlasLoot                 | 副本掉落       | <https://github.com/Otari98/AtlasLoot.git>                    |
     | aux-addon                 | 拍卖行增强     | <https://github.com/OldManAlpha/aux-addon.git>                |
     | DPSMate                   | 战斗统计       | <https://github.com/laytya/DPSMate.git>                       |
     | Outfitter                 | 一键换装       | <https://github.com/pepopo978/Outfitter.git>                  |
@@ -37,7 +35,9 @@
 
     | 名称                 | 简介         | URL                                                                |
     | :------------------- | :----------- | :----------------------------------------------------------------- |
-    | AtlasQuest           | 副本任务     | <https://gitee.com/twow-cn/AtlasQuest.git>                         |
+    | Atlas                | 副本地图     | <https://github.com/96Rex/Atlas.git>                               |
+    | AtlasLoot            | 副本掉落     | <https://github.com/96Rex/AtlasLoot.git>                           |
+    | AtlasQuest           | 副本任务     | <https://github.com/96Rex/AtlasQuest.git>                          |
     | BetterCharacterStats | 角色面板增强 | <https://gitee.com/twow-cn/BetterCharacterStats.git>               |
     | BigWigs              | 副本警报     | <https://github.com/winnowplus/BigWigs-Turtle-zhCN-Standalone.git> |
     | QuickHeal            | 一键治疗     | <https://gitee.com/twow-cn/QuickHeal.git>                          |
@@ -46,6 +46,8 @@
 
     | 名称                 | 简介         | URL                                                     |
     | :------------------- | :----------- | :------------------------------------------------------ |
+    | Atlas                | 副本地图     | <https://github.com/Otari98/Atlas.git>                  |
+    | AtlasLoot            | 副本掉落     | <https://github.com/Otari98/AtlasLoot.git>              |
     | AtlasQuest           | 副本任务     | <https://github.com/Otari98/AtlasQuest.git>             |
     | BetterCharacterStats | 角色面板增强 | <https://github.com/pepopo978/BetterCharacterStats.git> |
     | BigWigs              | 副本警报     | <https://github.com/pepopo978/BigWigs.git>              |
