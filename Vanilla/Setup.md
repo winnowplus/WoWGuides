@@ -23,7 +23,7 @@
     | AdvancedTradeSkillWindow2 | 专业技能增强   | <https://github.com/Shellyoung/AdvancedTradeSkillWindow2.git> |
     | Atlas                     | 副本地图       | <https://github.com/Otari98/Atlas.git>                        |
     | AtlasLoot                 | 副本掉落       | <https://github.com/Otari98/AtlasLoot.git>                    |
-    | Aux-Revamped              | 拍卖行增强     | <https://github.com/Nelethor/Aux-Revamped.git>                |
+    | aux-addon                 | 拍卖行增强     | <https://github.com/OldManAlpha/aux-addon.git>                |
     | DPSMate                   | 战斗统计       | <https://github.com/laytya/DPSMate.git>                       |
     | Outfitter                 | 一键换装       | <https://github.com/pepopo978/Outfitter.git>                  |
     | pfQuest                   | 任务助手       | <https://github.com/shagu/pfQuest.git>                        |
