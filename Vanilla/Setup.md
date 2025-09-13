@@ -41,6 +41,7 @@
     | BetterCharacterStats | 角色面板增强 | <https://gitee.com/twow-cn/BetterCharacterStats.git>               |
     | BigWigs              | 副本警报     | <https://github.com/winnowplus/BigWigs-Turtle-zhCN-Standalone.git> |
     | QuickHeal            | 一键治疗     | <https://gitee.com/twow-cn/QuickHeal.git>                          |
+    | Tmog                 |              | <https://gitee.com/twow-cn/Tmog.git>                               |
 
 + 英文客户端
 
@@ -52,6 +53,7 @@
     | BetterCharacterStats | 角色面板增强 | <https://github.com/pepopo978/BetterCharacterStats.git> |
     | BigWigs              | 副本警报     | <https://github.com/pepopo978/BigWigs.git>              |
     | QuickHeal            | 一键治疗     | <https://github.com/Bestoriop/QuickHeal-Turtle-Wow.git> |
+    | Tmog                 |              | <https://github.com/Otari98/Tmog.git>                   |
 
 ## 2. 选项设置（个人向）
 
