@@ -40,7 +40,7 @@
     | AtlasQuest           | 副本任务     | <https://github.com/96Rex/AtlasQuest.git>                          |
     | BetterCharacterStats | 角色面板增强 | <https://gitee.com/twow-cn/BetterCharacterStats.git>               |
     | BigWigs              | 副本警报     | <https://github.com/winnowplus/BigWigs-Turtle-zhCN-Standalone.git> |
-    | QuickHeal            | 一键治疗     | <https://gitee.com/twow-cn/QuickHeal.git>                          |
+    | QuickHeal            | 一键治疗     | <https://gitee.com/WinnowPlus/QuickHeal.git>                       |
     | Tmog                 |              | <https://gitee.com/twow-cn/Tmog.git>                               |
 
 + 英文客户端
