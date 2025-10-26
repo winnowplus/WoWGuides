@@ -6,9 +6,9 @@
 
   ![TW_Talent_Paladin_Retribution_Pvp](/Images/TW_Talent_Paladin_Retribution_Pvp.jpg)
 
-+ 惩戒 Pve (Turtle WoW)
++ 惩戒 Raid (Turtle WoW)
   
-  ![TW_Talent_Paladin_Retribution_Pve](/Images/TW_Talent_Paladin_Retribution_Pve.jpg)
+  ![TW_Talent_Paladin_Retribution_Raid](/Images/TW_Talent_Paladin_Retribution_Raid.jpg)
 
 + 防护 Solo (Turtle WoW)
   
@@ -21,3 +21,13 @@
 + 神圣 Raid (Turtle WoW)
   
   ![TW_Talent_Paladin_Holy_Raid](/Images/TW_Talent_Paladin_Holy_Raid.jpg)
+
+## 猎人
+
++ 兽王 (Turtle WoW)
+
+  ![TW_Talent_Hunter_BeastMastery](/Images/TW_Talent_Hunter_BeastMastery.jpg)
+
++ 射击 Raid (Turtle WoW)
+  
+  ![TW_Talent_Hunter_Marksmanship_Raid](/Images/TW_Talent_Hunter_Marksmanship_Raid.jpg)
