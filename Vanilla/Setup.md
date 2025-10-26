@@ -1,8 +1,6 @@
 # 魔兽世界香草服 | 插件
 
-## 1. 插件
-
-### 1.1. 插件管理器
+## 插件管理器
 
 [GitAddonsManager](https://woblight.gitlab.io/overview/gitaddonsmanager/) 用于从 Git 仓库更新插件。 *从 Microsoft Store 安装 Watt Toolkit 加速访问 Github。*
 
@@ -14,7 +12,7 @@
 
   ![GitAddonsManager_Options](/Images/GitAddonsManager_Addons.jpg)
 
-### 1.2. 推荐插件
+## 推荐插件
 
 + 通用
 
@@ -55,9 +53,9 @@
     | QuickHeal            | 一键治疗     | <https://github.com/Bestoriop/QuickHeal-Turtle-Wow.git> |
     | Tmog                 |              | <https://github.com/Otari98/Tmog.git>                   |
 
-## 2. 选项设置（个人向）
+## 设置（个人向）
 
-### 2.1. 游戏设置
+### 游戏设置
 
 + 视频设置
   + 分辨率：1920×1080 (宽屏)
@@ -75,7 +73,7 @@
   + 显示
     + 显示本人名字：√
 
-### 2.2. pfQuest
+### pfQuest
 
 + 常规
   + 显示数据库 ID：√
@@ -85,11 +83,11 @@
 + 路径
   + 沿路径显示箭头：×
 
-### 2.3. pfUI
+### pfUI
 
 以预设配置 **Legacy** 为基准，进行如下设置。
 
-#### 2.3.1. 一般设置
+#### 一般设置
 
 + 头像框架
   + 点击施法
@@ -133,7 +131,7 @@
   + 模块 - 禁用 macrotweak：√
   + 皮肤 - 禁用皮肤 Gossip and Quest：√
 
-#### 2.3.2. 布局设置
+#### 布局设置
 
 | 框体               | 属性                     | 布局               |
 | :----------------- | :----------------------- | :----------------- |
@@ -164,7 +162,7 @@
 |                    |                          |                    |
 | QuestTimerFrame    |                          | RIGHT (0, 192)     |
 
-#### 2.3.3. 配置字符串
+#### 配置字符串
 
 不忽略布局：
 
@@ -250,7 +248,7 @@ ZwBYAXUAcAD1AuoCqgL5AuAB0AL8AskCsgLMAgAD7wECA14CiQFgAiIAdgCvAZ0BYgHwAS4ANQAuAOgC
 Aq4B3gJyAngBbwAaA3IAuwIIAw0DXwJxASIARQB2Aq4BTwAtA7sCSQJrApEBkwKdAXQAaQAdAzEBlwKZAjIDfQAKAAA==
 ```
 
-### 2.4. 其他插件
+### 其他插件
 
 + DPSMate
   + 锁定窗口：√

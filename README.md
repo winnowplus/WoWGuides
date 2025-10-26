@@ -4,7 +4,7 @@
 
 [插件](/Vanilla/Setup.md)
 
-[附魔](/Vanilla/Enchant.md) | [藏品](/Vanilla/Collections.md)
+[天赋](/Vanilla/Talent.md) | [附魔](/Vanilla/Enchant.md) | [藏品](/Vanilla/Collection.md)
 
 [标准化武器伤害](/Vanilla/Wiki%20Normalized%20Weapon%20Damage.md)
 
