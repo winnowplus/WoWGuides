@@ -28,7 +28,7 @@
 |           | [次级贪婪秘药](http://db.nfuwow.com/60/?item=11648)             | 智力+8                                                  |
 |           | [次级贪婪秘药](http://db.nfuwow.com/60/?item=11649)             | 精神+8                                                  |
 |           | [急速秘药](http://db.nfuwow.com/60/?item=18329)                 | 攻击速度+1%                                             |
-|           | [专注秘药](http://db.nfuwow.com/60/?item=18330)                 | 法术强度+12 (香草版本 +8)                               |
+|           | [专注秘药](http://db.nfuwow.com/60/?item=18330)                 | 法术强度+8 (Turtle WoW 法术强度+12)                     |
 |           | [防护秘药](http://db.nfuwow.com/60/?item=18331)                 | 躲闪几率+1%                                             |
 |           | [**凶猛赐福**](https://database.turtle-wow.org/?item=61081)     | **仅头部**，进入猎豹形态获得20能量，进入熊形态获得5怒气 |
 
