@@ -44,19 +44,19 @@
 |           | [**幻光宝玉**](https://database.turtle-wow.org/?item=56005)         | 精神+4             |
 |           | [**柔韧奥术石**](https://database.turtle-wow.org/?item=56076)       | 护甲+40            |
 |           | [华丽山地宝石](https://database.turtle-wow.org/?item=61818)         | 格挡率+1%          |
+|           | [**炽热红宝石**](https://database.turtle-wow.org/?item=56006)       | 吸血+1%            |
 |           | [**绚丽宝钻**](https://database.turtle-wow.org/?item=56010)         | 治疗效果+12        |
 |           | [**苏生黄玉**](https://database.turtle-wow.org/?item=56077)         | 每5秒恢复2点法力值 |
-|           | [**炽热红宝石**](https://database.turtle-wow.org/?item=56006)       | 吸血+1%            |
+|           | [**奥术翡翠**](https://database.turtle-wow.org/?item=56016)         | 法术伤害+5         |
+|           | [**辉光蓝宝石**](https://database.turtle-wow.org/?item=56057)       | 冰霜伤害+9         |
 |           | [**明亮灰烬石**](https://database.turtle-wow.org/?item=56004)       | 火焰伤害+6         |
 |           | [**魔化翡翠**](https://database.turtle-wow.org/?item=56018)         | 自然伤害+9         |
-|           | [**辉光蓝宝石**](https://database.turtle-wow.org/?item=56057)       | 冰霜伤害+9         |
-|           | [**奥术翡翠**](https://database.turtle-wow.org/?item=56016)         | 法术伤害+5         |
-|           | [璀璨玛瑙](https://database.turtle-wow.org/?item=56074)             | 法术穿透+6         |
+|           | [**璀璨玛瑙**](https://database.turtle-wow.org/?item=56074)         | 法术穿透+6         |
 |           | [漆黑曜石](https://database.turtle-wow.org/?item=56013)             | 所有抗性+3         |
+|           | [**深沉白玉**](https://database.turtle-wow.org/?item=56075)         | 暗影抗性+8         |
+|           | [**幽影墨玉**](https://database.turtle-wow.org/?item=56012)         | 火焰抗性+8         |
 |           | [**优雅翡翠**](https://database.turtle-wow.org/?item=56009)         | 自然抗性+8         |
 |           | [**不稳定的奥术宝石**](https://database.turtle-wow.org/?item=56011) | 奥术抗性+8         |
-|           | [**幽影墨玉**](https://database.turtle-wow.org/?item=56012)         | 火焰抗性+8         |
-|           | [**深沉白玉**](https://database.turtle-wow.org/?item=56075)         | 暗影抗性+8         |
 
 ## 肩部
 
