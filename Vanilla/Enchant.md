@@ -36,14 +36,14 @@
 
 | EnchantId | 名称                                                                | 效果               |
 | :-------- | :------------------------------------------------------------------ | :----------------- |
-|           | [惊艳帝王石](https://database.turtle-wow.org/?item=56014)           | 所有属性+3         |
-|           | [艾泽拉斯红玉](https://database.turtle-wow.org/?item=56015)         | 力量+6             |
+| x         | [**惊艳帝王石**](https://database.turtle-wow.org/?item=56014)       | 所有属性+3         |
+| x         | [**艾泽拉斯红玉**](https://database.turtle-wow.org/?item=56015)     | 力量+6             |
 |           | [**闪耀白玉**](https://database.turtle-wow.org/?item=56008)         | 敏捷+6             |
 |           | [**淬火艾泽拉斯钻石**](https://database.turtle-wow.org/?item=56017) | 耐力+6             |
 |           | [**辉煌蓝宝石**](https://database.turtle-wow.org/?item=56007)       | 智力+6             |
 |           | [**幻光宝玉**](https://database.turtle-wow.org/?item=56005)         | 精神+4             |
 |           | [**柔韧奥术石**](https://database.turtle-wow.org/?item=56076)       | 护甲+40            |
-|           | [华丽山地宝石](https://database.turtle-wow.org/?item=61818)         | 格挡率+1%          |
+| x         | [**华丽山地宝石**](https://database.turtle-wow.org/?item=61818)     | 格挡率+1%          |
 |           | [**炽热红宝石**](https://database.turtle-wow.org/?item=56006)       | 吸血+1%            |
 |           | [**绚丽宝钻**](https://database.turtle-wow.org/?item=56010)         | 治疗效果+12        |
 |           | [**苏生黄玉**](https://database.turtle-wow.org/?item=56077)         | 每5秒恢复2点法力值 |
@@ -52,7 +52,7 @@
 |           | [**明亮灰烬石**](https://database.turtle-wow.org/?item=56004)       | 火焰伤害+6         |
 |           | [**魔化翡翠**](https://database.turtle-wow.org/?item=56018)         | 自然伤害+9         |
 |           | [**璀璨玛瑙**](https://database.turtle-wow.org/?item=56074)         | 法术穿透+6         |
-|           | [漆黑曜石](https://database.turtle-wow.org/?item=56013)             | 所有抗性+3         |
+| x         | [**漆黑曜石**](https://database.turtle-wow.org/?item=56013)         | 所有抗性+3         |
 |           | [**深沉白玉**](https://database.turtle-wow.org/?item=56075)         | 暗影抗性+8         |
 |           | [**幽影墨玉**](https://database.turtle-wow.org/?item=56012)         | 火焰抗性+8         |
 |           | [**优雅翡翠**](https://database.turtle-wow.org/?item=56009)         | 自然抗性+8         |
