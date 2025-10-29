@@ -121,6 +121,7 @@
 | x         | [**附魔手套 - 特效力量**](https://database.turtle-wow.org/?item=53017)     | 力量+9           |
 | x         | [附魔手套 - 超强敏捷](http://db.nfuwow.com/60/?item=20731)                 | 敏捷+15          |
 |           | [附魔手套 - 初级加速](https://db.nfuwow.com/60/?spell=13948)               | 攻击速度+1%      |
+| x         | [附魔手套 - 威胁](http://db.nfuwow.com/60/?item=20726)                     | 提高威胁值       |
 | x         | [附魔手套 - 治疗能量](http://db.nfuwow.com/60/?item=20730)                 | 治疗+30          |
 | x         | [附魔手套 - 暗影能量](http://db.nfuwow.com/60/?item=20727)                 | 暗影伤害+20      |
 | x         | [附魔手套 - 冰霜能量](http://db.nfuwow.com/60/?item=20728)                 | 冰霜伤害+20      |
@@ -128,7 +129,6 @@
 | x         | [**附魔手套 - 自然之力**](https://database.turtle-wow.org/?item=70000)     | 自然伤害+20      |
 | x         | [**附魔手套 - 奥术能量**](https://database.turtle-wow.org/?item=70001)     | 奥术伤害+20      |
 | x         | [**~~附魔手套 - 神圣之力~~**](https://database.turtle-wow.org/?item=70002) | 神圣伤害+20      |
-| x         | [附魔手套 - 威胁](http://db.nfuwow.com/60/?item=20726)                     | 提高威胁值       |
 |           | [附魔手套 - 骑乘](http://db.nfuwow.com/60/?item=11226)                     | 略微提高骑乘速度 |
 |           | [附魔手套 - 高级采矿](http://db.nfuwow.com/60/?item=11203)                 | 采矿+5           |
 |           | [附魔手套 - 高级草药学](http://db.nfuwow.com/60/?item=11205)               | 采药+5           |
