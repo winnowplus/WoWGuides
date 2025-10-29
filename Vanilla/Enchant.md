@@ -104,7 +104,7 @@
 | EnchantId | 名称                                                               | 效果               |
 | :-------- | :----------------------------------------------------------------- | :----------------- |
 |           | [附魔护腕 - 超强力量](http://db.nfuwow.com/60/?item=16246)         | 力量+9             |
-| x         | [附魔护腕 - 敏捷](https://database.turtle-wow.org/?item=60969)     | 敏捷+7             |
+| x         | [附魔护腕 - 强效敏捷](https://database.turtle-wow.org/?item=60969) | 敏捷+7             |
 |           | [附魔护腕 - 超强耐力](http://db.nfuwow.com/60/?item=16251)         | 耐力+9             |
 | x         | [附魔护腕 - 强效智力](http://db.nfuwow.com/60/?item=16214)         | 智力+7             |
 |           | [附魔护腕 - 超强精神](http://db.nfuwow.com/60/?item=16218)         | 精神+9             |
