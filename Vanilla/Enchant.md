@@ -101,18 +101,18 @@
 
 ## 护腕
 
-| EnchantId | 名称                                                               | 效果               |
-| :-------- | :----------------------------------------------------------------- | :----------------- |
-|           | [附魔护腕 - 超强力量](http://db.nfuwow.com/60/?item=16246)         | 力量+9             |
-| x         | [附魔护腕 - 强效敏捷](https://database.turtle-wow.org/?item=60969) | 敏捷+7             |
-|           | [附魔护腕 - 超强耐力](http://db.nfuwow.com/60/?item=16251)         | 耐力+9             |
-| x         | [附魔护腕 - 强效智力](http://db.nfuwow.com/60/?item=16214)         | 智力+7             |
-|           | [附魔护腕 - 超强精神](http://db.nfuwow.com/60/?item=16218)         | 精神+9             |
-| x         | [附魔护腕 - 强效偏斜](https://database.turtle-wow.org/?item=61221) | 防御+5             |
-| x         | [附魔护腕 - 法术能量](https://database.turtle-wow.org/?item=60966) | 法伤+12            |
-| x         | [附魔护腕 - 治疗能力](http://db.nfuwow.com/60/?item=19447)         | 治疗+24            |
-| x         | [附魔护腕 - 法力回复](http://db.nfuwow.com/60/?item=19446)         | 每5秒恢复4点法力值 |
-|           | [附魔护腕 - 吸血](https://database.turtle-wow.org/?item=61738)     | 吸血+1%            |
+| EnchantId | 名称                                                                   | 效果               |
+| :-------- | :--------------------------------------------------------------------- | :----------------- |
+|           | [附魔护腕 - 超强力量](http://db.nfuwow.com/60/?item=16246)             | 力量+9             |
+| x         | [**附魔护腕 - 强效敏捷**](https://database.turtle-wow.org/?item=60969) | 敏捷+7             |
+|           | [附魔护腕 - 超强耐力](http://db.nfuwow.com/60/?item=16251)             | 耐力+9             |
+| x         | [附魔护腕 - 强效智力](http://db.nfuwow.com/60/?item=16214)             | 智力+7             |
+|           | [附魔护腕 - 超强精神](http://db.nfuwow.com/60/?item=16218)             | 精神+9             |
+| x         | [**附魔护腕 - 强效偏斜**](https://database.turtle-wow.org/?item=61221) | 防御+5             |
+|           | [**附魔护腕 - 吸血**](https://database.turtle-wow.org/?item=61738)     | 吸血+1%            |
+| x         | [附魔护腕 - 治疗能力](http://db.nfuwow.com/60/?item=19447)             | 治疗+24            |
+| x         | [附魔护腕 - 法力回复](http://db.nfuwow.com/60/?item=19446)             | 每5秒恢复4点法力值 |
+| x         | [**附魔护腕 - 法术能量**](https://database.turtle-wow.org/?item=60966) | 法伤+12            |
 
 ## 手套
 
