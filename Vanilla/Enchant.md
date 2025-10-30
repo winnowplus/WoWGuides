@@ -81,7 +81,7 @@
 | :-------- | :----------------------------------------------------------------------- | :----------- |
 |           | [附魔披风 - 次级敏捷](http://db.nfuwow.com/60/?item=11206)               | 敏捷+3       |
 |           | [附魔披风 - 超强防御](http://db.nfuwow.com/60/?item=16224)               | 护甲+70      |
-| x         | [附魔披风 - 躲闪](http://db.nfuwow.com/60/?item=20736)                   | 躲闪+1%      |
+| x         | [附魔披风 - 躲闪](http://db.nfuwow.com/60/?item=20736)                   | 躲闪几率+1%  |
 |           | [附魔披风 - 强效抗性](http://db.nfuwow.com/60/?item=16216)               | 所有抗性+5   |
 | x         | [附魔披风 - 抵抗次级暗影](http://db.nfuwow.com/60/?item=11098)           | 暗影抗性+10  |
 | x         | [附魔披风 - 强效火焰抗性](http://db.nfuwow.com/60/?item=20732)           | 火焰抗性+15  |
@@ -108,50 +108,50 @@
 |           | [附魔护腕 - 超强耐力](http://db.nfuwow.com/60/?item=16251)             | 耐力+9             |
 | x         | [附魔护腕 - 强效智力](http://db.nfuwow.com/60/?item=16214)             | 智力+7             |
 |           | [附魔护腕 - 超强精神](http://db.nfuwow.com/60/?item=16218)             | 精神+9             |
-| x         | [**附魔护腕 - 法术能量**](https://database.turtle-wow.org/?item=60966) | 法伤+12            |
+| x         | [**附魔护腕-法术能量**](https://database.turtle-wow.org/?item=60966)   | 法伤+12            |
 | x         | [附魔护腕 - 治疗能量](http://db.nfuwow.com/60/?item=19447)             | 治疗效果+24        |
 | x         | [附魔护腕 - 法力回复](http://db.nfuwow.com/60/?item=19446)             | 每5秒恢复4点法力值 |
-| x         | [**附魔护腕 - 强效偏斜**](https://database.turtle-wow.org/?item=61221) | 防御等级+5         |
-|           | [**附魔护腕 - 吸血**](https://database.turtle-wow.org/?item=61738)     | 吸血+1%            |
+| x         | [**附魔护腕-强效偏斜**](https://database.turtle-wow.org/?item=61221)   | 防御等级+5         |
+|           | [**附魔护腕-吸血**](https://database.turtle-wow.org/?item=61738)       | 吸血+1%            |
 
 ## 手套
 
-| EnchantId | 名称                                                                       | 效果             |
-| :-------- | :------------------------------------------------------------------------- | :--------------- |
-| x         | [**附魔手套 - 特效力量**](https://database.turtle-wow.org/?item=53017)     | 力量+9           |
-| x         | [附魔手套 - 超强敏捷](http://db.nfuwow.com/60/?item=20731)                 | 敏捷+15          |
-|           | [附魔手套 - 初级加速](https://db.nfuwow.com/60/?spell=13948)               | 攻击速度+1%      |
-| x         | [附魔手套 - 暗影能量](http://db.nfuwow.com/60/?item=20727)                 | 暗影伤害+20      |
-| x         | [附魔手套 - 冰霜能量](http://db.nfuwow.com/60/?item=20728)                 | 冰霜伤害+20      |
-| x         | [附魔手套 - 火焰能量](http://db.nfuwow.com/60/?item=20729)                 | 火焰伤害+20      |
-| x         | [**附魔手套 - 自然之力**](https://database.turtle-wow.org/?item=70000)     | 自然伤害+20      |
-| x         | [**附魔手套 - 奥术能量**](https://database.turtle-wow.org/?item=70001)     | 奥术伤害+20      |
-| x         | [**~~附魔手套 - 神圣之力~~**](https://database.turtle-wow.org/?item=70002) | 神圣伤害+20      |
-| x         | [附魔手套 - 治疗能量](http://db.nfuwow.com/60/?item=20730)                 | 治疗效果+30      |
-| x         | [附魔手套 - 威胁](http://db.nfuwow.com/60/?item=20726)                     | 提高威胁值       |
-|           | [附魔手套 - 骑乘](http://db.nfuwow.com/60/?item=11226)                     | 略微提高骑乘速度 |
-|           | [附魔手套 - 高级采矿](http://db.nfuwow.com/60/?item=11203)                 | 采矿+5           |
-|           | [附魔手套 - 高级草药学](http://db.nfuwow.com/60/?item=11205)               | 采药+5           |
-|           | [附魔手套 - 剥皮](http://db.nfuwow.com/60/?item=11166)                     | 剥皮+5           |
-|           | [附魔手套 - 钓鱼](http://db.nfuwow.com/60/?item=11152)                     | 钓鱼+2           |
+| EnchantId | 名称                                                                     | 效果             |
+| :-------- | :----------------------------------------------------------------------- | :--------------- |
+| x         | [**附魔手套 - 特效力量**](https://database.turtle-wow.org/?item=53017)   | 力量+9           |
+| x         | [附魔手套 - 超强敏捷](http://db.nfuwow.com/60/?item=20731)               | 敏捷+15          |
+|           | [附魔手套 - 初级加速](https://db.nfuwow.com/60/?spell=13948)             | 攻击速度+1%      |
+| x         | [附魔手套 - 暗影能量](http://db.nfuwow.com/60/?item=20727)               | 暗影伤害+20      |
+| x         | [附魔手套 - 冰霜能量](http://db.nfuwow.com/60/?item=20728)               | 冰霜伤害+20      |
+| x         | [附魔手套 - 火焰能量](http://db.nfuwow.com/60/?item=20729)               | 火焰伤害+20      |
+| x         | [**附魔手套-自然之力**](https://database.turtle-wow.org/?item=70000)     | 自然伤害+20      |
+| x         | [**附魔手套-奥术能量**](https://database.turtle-wow.org/?item=70001)     | 奥术伤害+20      |
+| x         | [**~~附魔手套-神圣之力~~**](https://database.turtle-wow.org/?item=70002) | 神圣伤害+20      |
+| x         | [附魔手套 - 治疗能量](http://db.nfuwow.com/60/?item=20730)               | 治疗效果+30      |
+| x         | [附魔手套 - 威胁](http://db.nfuwow.com/60/?item=20726)                   | 提高威胁值       |
+|           | [附魔手套 - 骑乘](http://db.nfuwow.com/60/?item=11226)                   | 略微提高骑乘速度 |
+|           | [附魔手套 - 高级采矿](http://db.nfuwow.com/60/?item=11203)               | 采矿+5           |
+|           | [附魔手套 - 高级草药学](http://db.nfuwow.com/60/?item=11205)             | 采药+5           |
+|           | [附魔手套 - 剥皮](http://db.nfuwow.com/60/?item=11166)                   | 剥皮+5           |
+|           | [附魔手套 - 钓鱼](http://db.nfuwow.com/60/?item=11152)                   | 钓鱼+2           |
 
 ## 腰带
 
 | EnchantId | 名称                                                          | 效果                            |
 | :-------- | :------------------------------------------------------------ | :------------------------------ |
-| x         | [**黑曜石带扣**](https://database.turtle-wow.org/?item=132)   | 力量+10                         |
-|           | [**秘银带扣**](https://database.turtle-wow.org/?item=61789)   | 敏捷+6                          |
-|           | [**梦钢带扣**](https://database.turtle-wow.org/?item=61792)   | 智力+10                         |
-|           | [**铁带扣**](https://database.turtle-wow.org/?item=61788)     | 护甲穿透+25                     |
-| x         | [**金带扣**](https://database.turtle-wow.org/?item=71)        | 远程攻击强度+14                 |
-| x         | [**龙鳞带扣**](https://database.turtle-wow.org/?item=88)      | 火焰伤害+8                      |
-| x         | [**真银带扣**](https://database.turtle-wow.org/?item=113)     | 治疗效果+8                      |
-| x         | [**奥金带扣**](https://database.turtle-wow.org/?item=61791)   | 防御等级+5                      |
-| x         | [**钢带扣**](https://database.turtle-wow.org/?item=70)        | 格挡值+10                       |
-| x         | [**血腥带扣**](https://database.turtle-wow.org/?item=61803)   | 受到的致命一击伤害和持续伤害-3% |
-|           | [**瑟银带扣**](https://database.turtle-wow.org/?item=61790)   | 所有抗性+4                      |
-| x         | [**黑铁带扣**](https://database.turtle-wow.org/?item=104)     | 火焰抗性+10                     |
-| x         | [**魔化瑟银带扣**](https://database.turtle-wow.org/?item=124) | 奥术抗性+10                     |
+| x         | [**黑曜石带扣**](https://database.turtle-wow.org/?item=103)   | 力量+10                         |
+|           | [**秘银带扣**](https://database.turtle-wow.org/?item=61782)   | 敏捷+6                          |
+|           | [**梦钢带扣**](https://database.turtle-wow.org/?item=61785)   | 智力+10                         |
+|           | [**铁带扣**](https://database.turtle-wow.org/?item=61781)     | 护甲穿透+25                     |
+| x         | [**金带扣**](https://database.turtle-wow.org/?item=66)        | 远程攻击强度+14                 |
+| x         | [**龙鳞带扣**](https://database.turtle-wow.org/?item=67)      | 火焰伤害+8                      |
+| x         | [**真银带扣**](https://database.turtle-wow.org/?item=151)     | 治疗效果+8                      |
+| x         | [**奥金带扣**](https://database.turtle-wow.org/?item=61784)   | 防御等级+5                      |
+| x         | [**钢带扣**](https://database.turtle-wow.org/?item=131)        | 格挡值+10                       |
+| x         | [**血腥带扣**](https://database.turtle-wow.org/?item=61810)   | 受到的致命一击伤害和持续伤害-3% |
+|           | [**瑟银带扣**](https://database.turtle-wow.org/?item=61783)   | 所有抗性+4                      |
+| x         | [**黑铁带扣**](https://database.turtle-wow.org/?item=82)     | 火焰抗性+10                     |
+| x         | [**魔化瑟银带扣**](https://database.turtle-wow.org/?item=87) | 奥术抗性+10                     |
 
 ## 靴子
 
