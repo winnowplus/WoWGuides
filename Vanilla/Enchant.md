@@ -137,32 +137,32 @@
 
 ## 腰带
 
-| EnchantId | 名称                                                          | 效果                            |
-| :-------- | :------------------------------------------------------------ | :------------------------------ |
-| x         | [**黑曜石带扣**](https://database.turtle-wow.org/?item=103)   | 力量+10                         |
-|           | [**秘银带扣**](https://database.turtle-wow.org/?item=61782)   | 敏捷+6                          |
-|           | [**梦钢带扣**](https://database.turtle-wow.org/?item=61785)   | 智力+10                         |
-|           | [**铁带扣**](https://database.turtle-wow.org/?item=61781)     | 护甲穿透+25                     |
-| x         | [**金带扣**](https://database.turtle-wow.org/?item=66)        | 远程攻击强度+14                 |
-| x         | [**龙鳞带扣**](https://database.turtle-wow.org/?item=67)      | 火焰伤害+8                      |
-| x         | [**真银带扣**](https://database.turtle-wow.org/?item=151)     | 治疗效果+8                      |
-| x         | [**奥金带扣**](https://database.turtle-wow.org/?item=61784)   | 防御等级+5                      |
-| x         | [**钢带扣**](https://database.turtle-wow.org/?item=131)        | 格挡值+10                       |
-| x         | [**血腥带扣**](https://database.turtle-wow.org/?item=61810)   | 受到的致命一击伤害和持续伤害-3% |
-|           | [**瑟银带扣**](https://database.turtle-wow.org/?item=61783)   | 所有抗性+4                      |
+| EnchantId | 名称                                                         | 效果                            |
+| :-------- | :----------------------------------------------------------- | :------------------------------ |
+| x         | [**黑曜石带扣**](https://database.turtle-wow.org/?item=103)  | 力量+10                         |
+|           | [**秘银带扣**](https://database.turtle-wow.org/?item=61782)  | 敏捷+6                          |
+|           | [**梦钢带扣**](https://database.turtle-wow.org/?item=61785)  | 智力+10                         |
+|           | [**铁带扣**](https://database.turtle-wow.org/?item=61781)    | 护甲穿透+25                     |
+| x         | [**金带扣**](https://database.turtle-wow.org/?item=66)       | 远程攻击强度+14                 |
+| x         | [**龙鳞带扣**](https://database.turtle-wow.org/?item=67)     | 火焰伤害+9                      |
+| x         | [**真银带扣**](https://database.turtle-wow.org/?item=151)    | 治疗效果+8                      |
+| x         | [**奥金带扣**](https://database.turtle-wow.org/?item=61784)  | 防御等级+5                      |
+| x         | [**钢带扣**](https://database.turtle-wow.org/?item=131)      | 格挡值+10                       |
+| x         | [**血腥带扣**](https://database.turtle-wow.org/?item=61810)  | 受到的致命一击伤害和持续伤害-3% |
+|           | [**瑟银带扣**](https://database.turtle-wow.org/?item=61783)  | 所有抗性+4                      |
 | x         | [**黑铁带扣**](https://database.turtle-wow.org/?item=82)     | 火焰抗性+10                     |
 | x         | [**魔化瑟银带扣**](https://database.turtle-wow.org/?item=87) | 奥术抗性+10                     |
 
 ## 靴子
 
-| EnchantId | 名称                                                                   | 效果             |
-| :-------- | :--------------------------------------------------------------------- | :--------------- |
-|           | [附魔靴子 - 强效敏捷](http://db.nfuwow.com/60/?item=16245)             | 敏捷+7           |
-| x         | [**附魔靴子 - 卓越耐力**](https://database.turtle-wow.org/?item=61219) | 耐力+15          |
-| x         | [**附魔靴子 - 特效智力**](https://database.turtle-wow.org/?item=55044) | 智力+9           |
-| x         | [**附魔靴子 - 强效精神**](https://database.turtle-wow.org/?item=61220) | 精神+12          |
-| x         | [**附魔鞋子 - 吸血**](https://database.turtle-wow.org/?item=61739)     | 吸血+1%          |
-|           | [附魔靴子 - 初级速度](https://db.nfuwow.com/60/?spell=13890)           | 略微提升移动速度 |
+| EnchantId | 名称                                                                 | 效果             |
+| :-------- | :------------------------------------------------------------------- | :--------------- |
+|           | [附魔靴子 - 强效敏捷](http://db.nfuwow.com/60/?item=16245)           | 敏捷+7           |
+| x         | [**附魔靴子-卓越耐力**](https://database.turtle-wow.org/?item=61219) | 耐力+15          |
+| x         | [**附魔靴子-特效智力**](https://database.turtle-wow.org/?item=55044) | 智力+9           |
+| x         | [**附魔靴子-强效精神**](https://database.turtle-wow.org/?item=61220) | 精神+12          |
+| x         | [**附魔鞋子-吸血**](https://database.turtle-wow.org/?item=61739)     | 吸血+1%          |
+|           | [附魔靴子 - 初级速度](https://db.nfuwow.com/60/?spell=13890)         | 略微提升移动速度 |
 
 ## 武器
 
@@ -177,17 +177,17 @@
 | x         | [附魔武器 - 生命偷取](http://db.nfuwow.com/60/?item=16254)                  | 偷取目标生命值给施法者    |
 | x         | [附魔武器 - 烈焰](http://db.nfuwow.com/60/?item=11207)                      | 近战攻击触发40点火焰伤害  |
 | x         | [附魔武器 - 法术能量](http://db.nfuwow.com/60/?item=18259)                  | 法术伤害+30               |
-|           | [狙击瞄准镜 (弓弩枪械)](http://db.nfuwow.com/60/?item=10548)                | 伤害+7                    |
-| x         | [比兹尼克247x128精确瞄准镜 (弓弩枪械)](http://db.nfuwow.com/60/?item=18283) | 远程命中率+3%             |
 | x         | [附魔武器 - 治疗能量](http://db.nfuwow.com/60/?item=18260)                  | 治疗效果+55               |
 | x         | [附魔盾牌 - 强效耐力](http://db.nfuwow.com/60/?item=16217)                  | 耐力+7                    |
 |           | [附魔盾牌 - 次级格挡](http://db.nfuwow.com/60/?item=11168)                  | 格挡几率+2%               |
 |           | [附魔盾牌 - 冰霜抗性](http://db.nfuwow.com/60/?item=11224)                  | 冰霜抗性+8                |
+|           | [狙击瞄准镜 (弓弩枪械)](http://db.nfuwow.com/60/?item=10548)                | 伤害+7                    |
+| x         | [比兹尼克247x128精确瞄准镜 (弓弩枪械)](http://db.nfuwow.com/60/?item=18283) | 远程命中率+3%             |
 
 ## 护甲片（胸、手、腿、脚）
 
 | EnchantId | 名称                                                          | 效果           |
 | :-------- | :------------------------------------------------------------ | :------------- |
-|           | [**魔化护甲片**](https://database.turtle-wow.org/?item=61179) | 法术强度+9     |
+|           | [**魔化护甲片**](https://database.turtle-wow.org/?item=61183) | 法术强度+9     |
 |           | [毛皮护甲片](http://db.nfuwow.com/60/?item=15564)             | 护甲+40 耐力+5 |
-|           | [**熔火护甲片**](https://database.turtle-wow.org/?item=18252) | 防御等级+5     |
+|           | [**熔火护甲片**](https://database.turtle-wow.org/?item=18251) | 防御等级+5     |
