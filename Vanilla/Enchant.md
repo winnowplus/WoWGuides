@@ -23,8 +23,8 @@
 |           | [次级坚韧秘药](http://db.nfuwow.com/60/?item=11643)             | 护甲+125                                                |
 |           | [次级适应秘药](http://db.nfuwow.com/60/?item=11644)             | 火焰抗性+20                                             |
 |           | [次级贪婪秘药](http://db.nfuwow.com/60/?item=11645)             | 力量+8                                                  |
-|           | [次级贪婪秘药](http://db.nfuwow.com/60/?item=11646)             | 耐力+8                                                  |
 |           | [次级贪婪秘药](http://db.nfuwow.com/60/?item=11647)             | 敏捷+8                                                  |
+|           | [次级贪婪秘药](http://db.nfuwow.com/60/?item=11646)             | 耐力+8                                                  |
 |           | [次级贪婪秘药](http://db.nfuwow.com/60/?item=11648)             | 智力+8                                                  |
 |           | [次级贪婪秘药](http://db.nfuwow.com/60/?item=11649)             | 精神+8                                                  |
 |           | [急速秘药](http://db.nfuwow.com/60/?item=18329)                 | 攻击速度+1%                                             |
@@ -42,16 +42,16 @@
 |           | [**淬火艾泽拉斯钻石**](https://database.turtle-wow.org/?item=56017) | 耐力+6             |
 |           | [**辉煌蓝宝石**](https://database.turtle-wow.org/?item=56007)       | 智力+6             |
 |           | [**幻光宝玉**](https://database.turtle-wow.org/?item=56005)         | 精神+4             |
-|           | [**柔韧奥术石**](https://database.turtle-wow.org/?item=56076)       | 护甲+40            |
-| x         | [**华丽山地宝石**](https://database.turtle-wow.org/?item=61818)     | 格挡率+1%          |
-|           | [**炽热红宝石**](https://database.turtle-wow.org/?item=56006)       | 吸血+1%            |
-|           | [**绚丽宝钻**](https://database.turtle-wow.org/?item=56010)         | 治疗效果+12        |
-|           | [**苏生黄玉**](https://database.turtle-wow.org/?item=56077)         | 每5秒恢复2点法力值 |
 |           | [**奥术翡翠**](https://database.turtle-wow.org/?item=56016)         | 法术伤害+5         |
 |           | [**辉光蓝宝石**](https://database.turtle-wow.org/?item=56057)       | 冰霜伤害+9         |
 |           | [**明亮灰烬石**](https://database.turtle-wow.org/?item=56004)       | 火焰伤害+6         |
 |           | [**魔化翡翠**](https://database.turtle-wow.org/?item=56018)         | 自然伤害+9         |
 |           | [**璀璨玛瑙**](https://database.turtle-wow.org/?item=56074)         | 法术穿透+6         |
+|           | [**绚丽宝钻**](https://database.turtle-wow.org/?item=56010)         | 治疗效果+12        |
+|           | [**苏生黄玉**](https://database.turtle-wow.org/?item=56077)         | 每5秒恢复2点法力值 |
+|           | [**柔韧奥术石**](https://database.turtle-wow.org/?item=56076)       | 护甲+40            |
+| x         | [**华丽山地宝石**](https://database.turtle-wow.org/?item=61818)     | 格挡几率+1%        |
+|           | [**炽热红宝石**](https://database.turtle-wow.org/?item=56006)       | 吸血+1%            |
 | x         | [**漆黑曜石**](https://database.turtle-wow.org/?item=56013)         | 所有抗性+3         |
 |           | [**深沉白玉**](https://database.turtle-wow.org/?item=56075)         | 暗影抗性+8         |
 |           | [**幽影墨玉**](https://database.turtle-wow.org/?item=56012)         | 火焰抗性+8         |
@@ -62,17 +62,17 @@
 
 | EnchantId | 名称                                                              | 效果                            |
 | :-------- | :---------------------------------------------------------------- | :------------------------------ |
+|           | [天灾的威严](http://db.nfuwow.com/60/?item=23548)                 | 攻击强度+26，暴击+1%            |
 |           | [天灾的力量](http://db.nfuwow.com/60/?item=23545)                 | 法术强度+15，法术暴击+1%        |
 |           | [天灾的活力](http://db.nfuwow.com/60/?item=23547)                 | 治疗效果+31，每5秒恢复5点法力值 |
-|           | [天灾的威严](http://db.nfuwow.com/60/?item=23548)                 | 攻击强度+26，暴击+1%            |
 |           | [天灾的坚韧](http://db.nfuwow.com/60/?item=23549)                 | 耐力+16，护甲+100               |
-|           | [赞达拉魔精徽记](http://db.nfuwow.com/60/?item=20076)             | 法术强度+18                     |
 |           | [赞达拉力量徽记](http://db.nfuwow.com/60/?item=20077)             | 攻击强度+30                     |
+|           | [赞达拉魔精徽记](http://db.nfuwow.com/60/?item=20076)             | 法术强度+18                     |
 |           | [赞达拉宁静徽记](http://db.nfuwow.com/60/?item=20078)             | 治疗效果+33                     |
 |           | [**赞达拉毅力印记**](https://database.turtle-wow.org/?item=65033) | 耐力+14                         |
-|           | [**吸血符印**](https://database.turtle-wow.org/?item=61436)       | 吸血+2%                         |
 |           | [**敏捷符印**](https://database.turtle-wow.org/?item=61437)       | 急速+2%                         |
 |           | [**穿透符印**](https://database.turtle-wow.org/?item=61438)       | 护甲穿透+40                     |
+|           | [**吸血符印**](https://database.turtle-wow.org/?item=61436)       | 吸血+2%                         |
 |           | [多彩黎明衬肩](http://db.nfuwow.com/60/?item=18182)               | 所有抗性+5                      |
 
 ## 披风
@@ -81,14 +81,14 @@
 | :-------- | :----------------------------------------------------------------------- | :----------- |
 |           | [附魔披风 - 次级敏捷](http://db.nfuwow.com/60/?item=11206)               | 敏捷+3       |
 |           | [附魔披风 - 超强防御](http://db.nfuwow.com/60/?item=16224)               | 护甲+70      |
-| x         | [附魔披风 - 潜行](http://db.nfuwow.com/60/?item=20734)                   | 潜行能力提高 |
-| x         | [附魔披风 - 狡诈](http://db.nfuwow.com/60/?item=20735)                   | 威胁值-2%    |
 | x         | [附魔披风 - 躲闪](http://db.nfuwow.com/60/?item=20736)                   | 躲闪+1%      |
 |           | [附魔披风 - 强效抗性](http://db.nfuwow.com/60/?item=16216)               | 所有抗性+5   |
 | x         | [附魔披风 - 抵抗次级暗影](http://db.nfuwow.com/60/?item=11098)           | 暗影抗性+10  |
 | x         | [附魔披风 - 强效火焰抗性](http://db.nfuwow.com/60/?item=20732)           | 火焰抗性+15  |
 | x         | [附魔披风 - 强效自然抗性](http://db.nfuwow.com/60/?item=20733)           | 自然抗性+15  |
 | x         | [**附魔披风-强效奥术抗性**](https://database.turtle-wow.org/?item=61180) | 奥术抗性+15  |
+| x         | [附魔披风 - 潜行](http://db.nfuwow.com/60/?item=20734)                   | 潜行能力提高 |
+| x         | [附魔披风 - 狡诈](http://db.nfuwow.com/60/?item=20735)                   | 威胁值-2%    |
 
 ## 胸甲
 
@@ -96,8 +96,8 @@
 | :-------- | :--------------------------------------------------------------------- | :--------- |
 |           | [附魔胸甲 - 强效属性](http://db.nfuwow.com/60/?item=16253)             | 所有属性+4 |
 | x         | [附魔胸甲 - 特效生命](http://db.nfuwow.com/60/?item=16221)             | 生命值+100 |
-|           | [附魔胸甲 - 特效法力](http://db.nfuwow.com/60/?item=16242)             | 法力值+100 |
 | x         | [**附魔胸甲 - 优异法力**](https://database.turtle-wow.org/?item=61217) | 法力值+150 |
+|           | [附魔胸甲 - 特效法力](http://db.nfuwow.com/60/?item=16242)             | 法力值+100 |
 
 ## 护腕
 
@@ -108,11 +108,11 @@
 |           | [附魔护腕 - 超强耐力](http://db.nfuwow.com/60/?item=16251)             | 耐力+9             |
 | x         | [附魔护腕 - 强效智力](http://db.nfuwow.com/60/?item=16214)             | 智力+7             |
 |           | [附魔护腕 - 超强精神](http://db.nfuwow.com/60/?item=16218)             | 精神+9             |
-| x         | [**附魔护腕 - 强效偏斜**](https://database.turtle-wow.org/?item=61221) | 防御等级+5         |
-|           | [**附魔护腕 - 吸血**](https://database.turtle-wow.org/?item=61738)     | 吸血+1%            |
+| x         | [**附魔护腕 - 法术能量**](https://database.turtle-wow.org/?item=60966) | 法伤+12            |
 | x         | [附魔护腕 - 治疗能量](http://db.nfuwow.com/60/?item=19447)             | 治疗效果+24        |
 | x         | [附魔护腕 - 法力回复](http://db.nfuwow.com/60/?item=19446)             | 每5秒恢复4点法力值 |
-| x         | [**附魔护腕 - 法术能量**](https://database.turtle-wow.org/?item=60966) | 法伤+12            |
+| x         | [**附魔护腕 - 强效偏斜**](https://database.turtle-wow.org/?item=61221) | 防御等级+5         |
+|           | [**附魔护腕 - 吸血**](https://database.turtle-wow.org/?item=61738)     | 吸血+1%            |
 
 ## 手套
 
@@ -121,14 +121,14 @@
 | x         | [**附魔手套 - 特效力量**](https://database.turtle-wow.org/?item=53017)     | 力量+9           |
 | x         | [附魔手套 - 超强敏捷](http://db.nfuwow.com/60/?item=20731)                 | 敏捷+15          |
 |           | [附魔手套 - 初级加速](https://db.nfuwow.com/60/?spell=13948)               | 攻击速度+1%      |
-| x         | [附魔手套 - 威胁](http://db.nfuwow.com/60/?item=20726)                     | 提高威胁值       |
-| x         | [附魔手套 - 治疗能量](http://db.nfuwow.com/60/?item=20730)                 | 治疗效果+30      |
 | x         | [附魔手套 - 暗影能量](http://db.nfuwow.com/60/?item=20727)                 | 暗影伤害+20      |
 | x         | [附魔手套 - 冰霜能量](http://db.nfuwow.com/60/?item=20728)                 | 冰霜伤害+20      |
 | x         | [附魔手套 - 火焰能量](http://db.nfuwow.com/60/?item=20729)                 | 火焰伤害+20      |
 | x         | [**附魔手套 - 自然之力**](https://database.turtle-wow.org/?item=70000)     | 自然伤害+20      |
 | x         | [**附魔手套 - 奥术能量**](https://database.turtle-wow.org/?item=70001)     | 奥术伤害+20      |
 | x         | [**~~附魔手套 - 神圣之力~~**](https://database.turtle-wow.org/?item=70002) | 神圣伤害+20      |
+| x         | [附魔手套 - 治疗能量](http://db.nfuwow.com/60/?item=20730)                 | 治疗效果+30      |
+| x         | [附魔手套 - 威胁](http://db.nfuwow.com/60/?item=20726)                     | 提高威胁值       |
 |           | [附魔手套 - 骑乘](http://db.nfuwow.com/60/?item=11226)                     | 略微提高骑乘速度 |
 |           | [附魔手套 - 高级采矿](http://db.nfuwow.com/60/?item=11203)                 | 采矿+5           |
 |           | [附魔手套 - 高级草药学](http://db.nfuwow.com/60/?item=11205)               | 采药+5           |
@@ -155,45 +155,37 @@
 
 ## 靴子
 
-| EnchantId | 名称 | 效果 |
-| :-------- | :--- | :--- |
-
-| x         | [](http://db.nfuwow.com/60/?item=)         |  |
-
-| 附魔靴子 - 强效敏捷                                         | 敏捷+7                             | 附魔     | 世界掉落                                                |
-| 附魔靴子 - 卓越耐力                                         | 耐力+15                            | 附魔     | 掉落：<卡拉赞>                                          |
-| 附魔靴子 - 初级速度                                         | 略微提升移动速度                   | 附魔     | 训练师                                                  |
-| 附魔靴子 - 吸血                                             | 吸血+1%                            | 附魔     | 掉落：<卡拉赞>                                          |
+| EnchantId | 名称                                                               | 效果             |
+| :-------- | :----------------------------------------------------------------- | :--------------- |
+|           | [附魔靴子 - 强效敏捷](http://db.nfuwow.com/60/?item=16245)         | 敏捷+7           |
+| x         | [**附魔靴子 - 卓越耐力**](https://database.turtle-wow.org/?item=61219) | 耐力+15          |
+| x         | [**附魔靴子 - 特效智力**](https://database.turtle-wow.org/?item=55044) | 智力+9           |
+| x         | [**附魔靴子 - 强效精神**](https://database.turtle-wow.org/?item=61220) | 精神+12          |
+| x         | [**附魔鞋子 - 吸血**](https://database.turtle-wow.org/?item=61739)     | 吸血+1%          |
+|           | [附魔靴子 - 初级速度](https://db.nfuwow.com/60/?spell=13890)       | 略微提升移动速度 |
 
 ## 武器
 
-| EnchantId | 名称 | 效果 |
-| :-------- | :--- | :--- |
-
-| x         | [](http://db.nfuwow.com/60/?item=)         |  |
-
-| 名称                  | 效果                      | 商业技能 | 图纸                                |
-| :-------------------- | :------------------------ | :------- | :---------------------------------- |
-| 附魔武器 - 力量       | 力量+15                   | 附魔     | 购买：瑟银兄弟会 - 友善             |
-| 附魔双手武器 - 敏捷   | 敏捷+25                   | 附魔     | 购买：木喉要塞 - 友善               |
-| 附魔武器 - 敏捷       | 敏捷+15                   | 附魔     | 购买：木喉要塞 - 尊敬               |
-| \*附魔武器 - 强效智力 | 智力+22                   | 附魔     | 购买：瑟银兄弟会 - 崇敬             |
-| 附魔武器 - 十字军     | 触发回血75～125，力量+100 | 附魔     | 掉落：血色缚法师<西瘟疫之地 壁炉谷> |
-| 附魔武器 - 烈焰       | 近战武器附加40点火焰伤害  | 附魔     | 掉落：控火师罗格雷恩<黑石深渊>      |
-| \*附魔武器 - 生命偷取 | 偷取目标生命值给施法者    | 附魔     | 掉落：鬼灵研究员<通灵学院>          |
-| 附魔武器 - 法术能量   | 法伤+35                   | 附魔     | 掉落：<熔火之心>                    |
-| 附魔武器 - 治疗能量   | 治疗效果+55               | 附魔     | 掉落：<熔火之心>                    |
-| 附魔盾牌 - 强效耐力   | 耐力+7                    | 附魔     | 购买：迈斯林迪尔<泰达希尔 29,50>    |
-
-
+| EnchantId | 名称                                                       | 效果                      |
+| :-------- | :--------------------------------------------------------- | :------------------------ |
+|           | [附魔武器 - 力量](http://db.nfuwow.com/60/?item=19444)     | 力量+15                   |
+| x         | [附魔双手武器 - 敏](http://db.nfuwow.com/60/?item=22392)   | 敏捷+25                   |
+| x         | [附魔武器 - 敏捷](http://db.nfuwow.com/60/?item=19445)     | 敏捷+15                   |
+| x         | [附魔武器 - 强效智力](http://db.nfuwow.com/60/?item=19449) | 智力+22                   |
+|           | [附魔武器 - 强效精神](http://db.nfuwow.com/60/?item=19448) | 精神+20                   |
+| x         | [附魔武器 - 十字军](http://db.nfuwow.com/60/?item=16252)   | 触发回血75～125，力量+100 |
+| x         | [附魔武器 - 生命偷取](http://db.nfuwow.com/60/?item=16254) | 偷取目标生命值给施法者    |
+| x         | [附魔武器 - 烈焰](http://db.nfuwow.com/60/?item=11207)     | 近战攻击触发40点火焰伤害  |
+| x         | [附魔武器 - 法术能量](http://db.nfuwow.com/60/?item=18259) | 法术伤害+30               |
+| x         | [附魔武器 - 治疗能量](http://db.nfuwow.com/60/?item=18260) | 治疗效果+55               |
+| x         | [附魔盾牌 - 强效耐力](http://db.nfuwow.com/60/?item=16217) | 耐力+7                    |
+|           | [附魔盾牌 - 次级格挡](http://db.nfuwow.com/60/?item=11168) | 格挡几率+2%               |
+|           | [附魔盾牌 - 冰霜抗性](http://db.nfuwow.com/60/?item=11224) | 冰霜抗性+8                |
 
 ## 护甲片（胸、手、腿、脚）
 
-| EnchantId | 名称 | 效果 |
-| :-------- | :--- | :--- |
-
-| x         | [](http://db.nfuwow.com/60/?item=)         |  |
-
-
-| 毛皮护甲片                                                  | 护甲+40 耐力+5，用于胸、手、腿、脚 | 制皮     | 世界掉落                                                |
-| \*[魔化护甲片](https://database.turtle-wow.org/?item=61183) | 法术强度+9，用于胸、手、腿、脚     | 制皮     | 任务兑换：埃文迪尔·夜风<海加尔山 84,28>                 |
+| EnchantId | 名称                                                      | 效果           |
+| :-------- | :-------------------------------------------------------- | :------------- |
+|           | [**魔化护甲片**](https://database.turtle-wow.org/?item=61179) | 法术强度+9     |
+|           | [毛皮护甲片](http://db.nfuwow.com/60/?item=15564)         | 护甲+40 耐力+5 |
+|           | [**熔火护甲片**](https://database.turtle-wow.org/?item=18252) | 防御等级+5     |
