@@ -95,7 +95,7 @@
 | EnchantId | 名称                                                                   | 效果       |
 | :-------- | :--------------------------------------------------------------------- | :--------- |
 |           | [附魔胸甲 - 强效属性](http://db.nfuwow.com/60/?item=16253)             | 所有属性+4 |
-| x         | [附魔胸甲 - 特效生命](http://db.nfuwow.com/60/?item=16221)             | 生命值+100 |
+|           | [附魔胸甲 - 特效生命](http://db.nfuwow.com/60/?item=16221)             | 生命值+100 |
 | x         | [**附魔胸甲 - 优异法力**](https://database.turtle-wow.org/?item=61217) | 法力值+150 |
 |           | [附魔胸甲 - 特效法力](http://db.nfuwow.com/60/?item=16242)             | 法力值+100 |
 
@@ -106,7 +106,7 @@
 |           | [附魔护腕 - 超强力量](http://db.nfuwow.com/60/?item=16246)             | 力量+9             |
 | x         | [**附魔护腕 - 强效敏捷**](https://database.turtle-wow.org/?item=60969) | 敏捷+7             |
 |           | [附魔护腕 - 超强耐力](http://db.nfuwow.com/60/?item=16251)             | 耐力+9             |
-| x         | [附魔护腕 - 强效智力](http://db.nfuwow.com/60/?item=16214)             | 智力+7             |
+|           | [附魔护腕 - 强效智力](http://db.nfuwow.com/60/?item=16214)             | 智力+7             |
 |           | [附魔护腕 - 超强精神](http://db.nfuwow.com/60/?item=16218)             | 精神+9             |
 | x         | [**附魔护腕-法术能量**](https://database.turtle-wow.org/?item=60966)   | 法伤+12            |
 | x         | [附魔护腕 - 治疗能量](http://db.nfuwow.com/60/?item=19447)             | 治疗效果+24        |
@@ -178,7 +178,7 @@
 | x         | [附魔武器 - 烈焰](http://db.nfuwow.com/60/?item=11207)                      | 近战攻击触发40点火焰伤害  |
 | x         | [附魔武器 - 法术能量](http://db.nfuwow.com/60/?item=18259)                  | 法术伤害+30               |
 | x         | [附魔武器 - 治疗能量](http://db.nfuwow.com/60/?item=18260)                  | 治疗效果+55               |
-| x         | [附魔盾牌 - 强效耐力](http://db.nfuwow.com/60/?item=16217)                  | 耐力+7                    |
+|           | [附魔盾牌 - 强效耐力](http://db.nfuwow.com/60/?item=16217)                  | 耐力+7                    |
 |           | [附魔盾牌 - 次级格挡](http://db.nfuwow.com/60/?item=11168)                  | 格挡几率+2%               |
 |           | [附魔盾牌 - 冰霜抗性](http://db.nfuwow.com/60/?item=11224)                  | 冰霜抗性+8                |
 |           | [狙击瞄准镜 (弓弩枪械)](http://db.nfuwow.com/60/?item=10548)                | 伤害+7                    |
