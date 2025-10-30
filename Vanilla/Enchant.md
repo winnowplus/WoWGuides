@@ -177,8 +177,8 @@
 | x         | [附魔武器 - 生命偷取](http://db.nfuwow.com/60/?item=16254)                  | 偷取目标生命值给施法者    |
 | x         | [附魔武器 - 烈焰](http://db.nfuwow.com/60/?item=11207)                      | 近战攻击触发40点火焰伤害  |
 | x         | [附魔武器 - 法术能量](http://db.nfuwow.com/60/?item=18259)                  | 法术伤害+30               |
-|           | [狙击瞄准镜 (弓弩枪械)](http://db.nfuwow.com/60/?item=10608)                | 伤害+7                    |
-| x         | [比兹尼克247x128精确瞄准镜 (弓弩枪械)](http://db.nfuwow.com/60/?item=18290) | 远程命中率+3%             |
+|           | [狙击瞄准镜 (弓弩枪械)](http://db.nfuwow.com/60/?item=10548)                | 伤害+7                    |
+| x         | [比兹尼克247x128精确瞄准镜 (弓弩枪械)](http://db.nfuwow.com/60/?item=18283) | 远程命中率+3%             |
 | x         | [附魔武器 - 治疗能量](http://db.nfuwow.com/60/?item=18260)                  | 治疗效果+55               |
 | x         | [附魔盾牌 - 强效耐力](http://db.nfuwow.com/60/?item=16217)                  | 耐力+7                    |
 |           | [附魔盾牌 - 次级格挡](http://db.nfuwow.com/60/?item=11168)                  | 格挡几率+2%               |
