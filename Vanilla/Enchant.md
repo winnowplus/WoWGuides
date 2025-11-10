@@ -174,7 +174,7 @@
 | x         | [附魔武器 - 强效智力](http://db.nfuwow.com/60/?item=19449)                  | 智力+22                   |
 |           | [附魔武器 - 强效精神](http://db.nfuwow.com/60/?item=19448)                  | 精神+20                   |
 | x         | [附魔武器 - 十字军](http://db.nfuwow.com/60/?item=16252)                    | 触发回血75～125，力量+100 |
-| x         | [附魔武器 - 生命偷取](http://db.nfuwow.com/60/?item=16254)                  | 偷取目标生命值给施法者    |
+|           | [附魔武器 - 生命偷取](http://db.nfuwow.com/60/?item=16254)                  | 偷取目标生命值给施法者    |
 | x         | [附魔武器 - 烈焰](http://db.nfuwow.com/60/?item=11207)                      | 近战攻击触发40点火焰伤害  |
 | x         | [附魔武器 - 法术能量](http://db.nfuwow.com/60/?item=18259)                  | 法术伤害+30               |
 | x         | [附魔武器 - 治疗能量](http://db.nfuwow.com/60/?item=18260)                  | 治疗效果+55               |
