@@ -146,7 +146,7 @@
 | x         | [**金带扣**](https://database.turtle-wow.org/?item=66)       | 远程攻击强度+14                 |
 | x         | [**龙鳞带扣**](https://database.turtle-wow.org/?item=67)     | 火焰伤害+9                      |
 | x         | [**真银带扣**](https://database.turtle-wow.org/?item=151)    | 治疗效果+8                      |
-| x         | [**奥金带扣**](https://database.turtle-wow.org/?item=61784)  | 防御等级+5                      |
+|           | [**奥金带扣**](https://database.turtle-wow.org/?item=61784)  | 防御等级+5                      |
 | x         | [**钢带扣**](https://database.turtle-wow.org/?item=131)      | 格挡值+10                       |
 | x         | [**血腥带扣**](https://database.turtle-wow.org/?item=61810)  | 受到的致命一击伤害和持续伤害-3% |
 |           | [**瑟银带扣**](https://database.turtle-wow.org/?item=61783)  | 所有抗性+4                      |
