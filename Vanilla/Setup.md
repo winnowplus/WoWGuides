@@ -16,18 +16,19 @@
 
 + 通用
 
-    | 名称                      | 简介           | URL                                                           |
-    | :------------------------ | :------------- | :------------------------------------------------------------ |
-    | AdvancedTradeSkillWindow2 | 专业技能增强   | <https://github.com/Shellyoung/AdvancedTradeSkillWindow2.git> |
-    | aux-addon                 | 拍卖行增强     | <https://github.com/OldManAlpha/aux-addon.git>                |
-    | DPSMate                   | 战斗统计       | <https://github.com/jrc13245/DPSMate.git>                     |
-    | Outfitter                 | 一键换装       | <https://github.com/pepopo978/Outfitter.git>                  |
-    | pfQuest                   | 任务助手       | <https://github.com/The-Kludge-Bureau/pfQuest.git>            |
-    | pfQuest-turtle            | 乌龟任务数据库 | <https://github.com/The-Kludge-Bureau/pfQuest-turtle.git>     |
-    | pfUI                      | UI整合         | <https://github.com/me0wg4ming/pfUI>                          |
-    | pfUI-eliteoverlay         |                | <https://github.com/shagu/pfUI-eliteoverlay.git>              |
-    | TurtleMail                | 邮件增强       | <https://github.com/sica42/TurtleMail.git>                    |
-    | VanillaStoryline          | 沉浸式任务对话 | <https://github.com/tubtubs/VanillaStoryline.git>             |
+    | 名称                      | 简介               | URL                                                           |
+    | :------------------------ | :----------------- | :------------------------------------------------------------ |
+    | AdvancedTradeSkillWindow2 | 专业技能增强       | <https://github.com/Shellyoung/AdvancedTradeSkillWindow2.git> |
+    | aux-addon                 | 拍卖行增强         | <https://github.com/OldManAlpha/aux-addon.git>                |
+    | DPSMate                   | 战斗统计           | <https://github.com/jrc13245/DPSMate.git>                     |
+    | Lern2Spell                | 自动替换低等级技能 | <https://github.com/mr-rosh/Lern2Spell.git>                   |
+    | Outfitter                 | 一键换装           | <https://github.com/pepopo978/Outfitter.git>                  |
+    | pfQuest                   | 任务助手           | <https://github.com/The-Kludge-Bureau/pfQuest.git>            |
+    | pfQuest-turtle            | 乌龟任务数据库     | <https://github.com/The-Kludge-Bureau/pfQuest-turtle.git>     |
+    | pfUI                      | UI整合             | <https://github.com/me0wg4ming/pfUI.git>                      |
+    | pfUI-eliteoverlay         |                    | <https://github.com/shagu/pfUI-eliteoverlay.git>              |
+    | TurtleMail                | 邮件增强           | <https://github.com/sica42/TurtleMail.git>                    |
+    | VanillaStoryline          | 沉浸式任务对话     | <https://github.com/tubtubs/VanillaStoryline.git>             |
 
 + 中文客户端
 
