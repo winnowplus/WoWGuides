@@ -20,11 +20,11 @@
     | :------------------------ | :------------- | :------------------------------------------------------------ |
     | AdvancedTradeSkillWindow2 | 专业技能增强   | <https://github.com/Shellyoung/AdvancedTradeSkillWindow2.git> |
     | aux-addon                 | 拍卖行增强     | <https://github.com/OldManAlpha/aux-addon.git>                |
-    | DPSMate                   | 战斗统计       | <https://github.com/laytya/DPSMate.git>                       |
+    | DPSMate                   | 战斗统计       | <https://github.com/jrc13245/DPSMate.git>                     |
     | Outfitter                 | 一键换装       | <https://github.com/pepopo978/Outfitter.git>                  |
-    | pfQuest                   | 任务助手       | <https://github.com/shagu/pfQuest.git>                        |
-    | pfQuest-turtle            | 乌龟任务数据库 | <https://github.com/shagu/pfQuest-turtle.git>                 |
-    | pfUI                      | UI整合         | <https://github.com/shagu/pfUI.git>                           |
+    | pfQuest                   | 任务助手       | <https://github.com/The-Kludge-Bureau/pfQuest.git>            |
+    | pfQuest-turtle            | 乌龟任务数据库 | <https://github.com/The-Kludge-Bureau/pfQuest-turtle.git>     |
+    | pfUI                      | UI整合         | <https://github.com/me0wg4ming/pfUI>                          |
     | pfUI-eliteoverlay         |                | <https://github.com/shagu/pfUI-eliteoverlay.git>              |
     | TurtleMail                | 邮件增强       | <https://github.com/sica42/TurtleMail.git>                    |
     | VanillaStoryline          | 沉浸式任务对话 | <https://github.com/tubtubs/VanillaStoryline.git>             |
@@ -33,13 +33,12 @@
 
     | 名称                 | 简介         | URL                                                                |
     | :------------------- | :----------- | :----------------------------------------------------------------- |
-    | Atlas                | 副本地图     | <https://github.com/96Rex/Atlas.git>                               |
-    | AtlasLoot            | 副本掉落     | <https://github.com/96Rex/AtlasLoot.git>                           |
-    | AtlasQuest           | 副本任务     | <https://github.com/96Rex/AtlasQuest.git>                          |
+    | Atlas                | 副本地图     | <>                                                                 |
+    | AtlasLoot            | 副本掉落     | <>                                                                 |
+    | AtlasQuest           | 副本任务     | <>                                                                 |
     | BetterCharacterStats | 角色面板增强 | <https://gitee.com/twow-cn/BetterCharacterStats.git>               |
     | BigWigs              | 副本警报     | <https://github.com/winnowplus/BigWigs-Turtle-zhCN-Standalone.git> |
     | QuickHeal            | 一键治疗     | <https://gitee.com/WinnowPlus/QuickHeal.git>                       |
-    | Tmog                 |              | <https://gitee.com/twow-cn/Tmog.git>                               |
 
 + 英文客户端
 
@@ -48,10 +47,9 @@
     | Atlas                | 副本地图     | <https://github.com/Otari98/Atlas.git>                  |
     | AtlasLoot            | 副本掉落     | <https://github.com/Otari98/AtlasLoot.git>              |
     | AtlasQuest           | 副本任务     | <https://github.com/Otari98/AtlasQuest.git>             |
-    | BetterCharacterStats | 角色面板增强 | <https://github.com/pepopo978/BetterCharacterStats.git> |
-    | BigWigs              | 副本警报     | <https://github.com/pepopo978/BigWigs.git>              |
+    | BetterCharacterStats | 角色面板增强 | <https://github.com/Otari98/BetterCharacterStats.git>   |
+    | BigWigs              | 副本警报     | <>                                                      |
     | QuickHeal            | 一键治疗     | <https://github.com/Bestoriop/QuickHeal-Turtle-Wow.git> |
-    | Tmog                 |              | <https://github.com/Otari98/Tmog.git>                   |
 
 ## 设置（个人向）
 
@@ -153,7 +151,7 @@
 | Group4             |                          | BOTTOM (280, 535)  |
 |                    |                          |                    |
 | ActionBarStances   | 图标大小：20             | BOTTOM (0, 111)    |
-| ActionBarPet       | 图标大小：20             | BOTTOM (-246, 4)    |
+| ActionBarPet       | 图标大小：20             | BOTTOM (-246, 4)   |
 | ChatInputBox       |                          | BOTTOM (0, 111)    |
 | Totems             |                          | BOTTOM (0, 111)    |
 | ActionBarMain      | 图标大小：24             | BOTTOM (0, 4)      |
