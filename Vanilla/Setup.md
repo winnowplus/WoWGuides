@@ -1,6 +1,52 @@
-# 魔兽世界香草服 | 插件
+# 魔兽世界香草服 | 客户端 & 插件
 
-## 插件管理器
+## 客户端
+
+建议从香草服网站下载启动器来安装客户端。
+
+### 自定义模组
+
++ dxvk：
++ nampower：
++ no1600x1200：
++ transmogFix：
++ unitXp：
++ vanillaFixes：
++ vanillaHelpers：
+
+### 游戏选项
+
++ 声音
+  + 综合
+    + 主音量：3档
+    + 音效音量：3档
+    + 音乐音量：1档
+    + 环境音量：2档
++ 界面
+  + 动作条
+    + 锁定动作条：√
+  + 镜头
+    + 最大镜头距离：高
+  + 控制
+    + 目标锁定：√
+    + 自动自我施法：×
+  + 显示
+    + 显示本人名字：√
+
+### CVar（待用于自动游戏配置）
+
++ MusicVolume "0.1"
++ SoundVolume "0.3"
++ MasterVolume "0.3"
++ AmbienceVolume "0.2"
++ gxResolution "1920x1080"
++ cameraDistanceMaxFactor "2"
++ CameraDistanceMax "50"
++ UnitNameOwn "1"
+
+## 插件
+
+### 插件管理器
 
 [GitAddonsManager](https://woblight.gitlab.io/overview/gitaddonsmanager/) 用于从 Git 仓库更新插件。 *从 Microsoft Store 安装 Watt Toolkit 加速访问 Github。*
 
@@ -12,7 +58,7 @@
 
   ![GitAddonsManager_Options](/Images/GitAddonsManager_Addons.jpg)
 
-## 推荐插件
+### 推荐插件
 
 + 通用
 
@@ -52,27 +98,9 @@
     | BigWigs              | 副本警报     | <>                                                      |
     | QuickHeal            | 一键治疗     | <https://github.com/Bestoriop/QuickHeal-Turtle-Wow.git> |
 
-## 设置（个人向）
+### 插件设置（个人向）
 
-### 游戏设置
-
-+ 视频设置
-  + 分辨率：1920×1080 (宽屏)
-  + 全屏幕泛光效果：×
-  + 死亡效果：×
-+ 声音设置
-  + 主音量：3档
-  + 音效音量：3档
-  + 音乐音量：1档
-  + 环境音量：2档
-+ 界面设置
-  + 控制
-    + 目标锁定：√
-    + 自动自我施法：×
-  + 显示
-    + 显示本人名字：√
-
-### pfQuest
+#### pfQuest
 
 + 常规
   + 显示数据库 ID：√
@@ -82,11 +110,11 @@
 + 路径
   + 沿路径显示箭头：×
 
-### pfUI
+#### pfUI
 
 以预设配置 **Legacy** 为基准，进行如下设置。
 
-#### 一般设置
+##### 一般设置
 
 + 头像框架
   + 点击施法
@@ -130,7 +158,7 @@
   + 模块 - 禁用 macrotweak：√
   + 皮肤 - 禁用皮肤 Gossip and Quest：√
 
-#### 布局设置
+##### 布局设置
 
 | 框体               | 属性                     | 布局               |
 | :----------------- | :----------------------- | :----------------- |
@@ -161,7 +189,7 @@
 |                    |                          |                    |
 | QuestTimerFrame    |                          | RIGHT (0, 192)     |
 
-#### 配置字符串
+##### 配置字符串
 
 不忽略布局：
 
@@ -247,7 +275,7 @@ ZwBYAXUAcAD1AuoCqgL5AuAB0AL8AskCsgLMAgAD7wECA14CiQFgAiIAdgCvAZ0BYgHwAS4ANQAuAOgC
 Aq4B3gJyAngBbwAaA3IAuwIIAw0DXwJxASIARQB2Aq4BTwAtA7sCSQJrApEBkwKdAXQAaQAdAzEBlwKZAjIDfQAKAAA==
 ```
 
-### 其他插件
+#### 其他插件
 
 + DPSMate
   + 锁定窗口：√

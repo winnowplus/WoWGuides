@@ -2,7 +2,7 @@
 
 ## 香草服
 
-[插件](/Vanilla/Setup.md)
+[客户端 & 插件](/Vanilla/Setup.md)
 
 [天赋](/Vanilla/Talent.md) | [附魔](/Vanilla/Enchant.md) | [藏品](/Vanilla/Collection.md)
 
