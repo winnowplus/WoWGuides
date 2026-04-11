@@ -90,7 +90,7 @@
     | 名称                 | 简介         | URL                                                     |
     | :------------------- | :----------- | :------------------------------------------------------ |
     | BetterCharacterStats | 角色面板增强 | <https://github.com/Otari98/BetterCharacterStats.git>   |
-    | BigWigs              | 副本警报     | <>                                                      |
+    | BigWigs              | 副本警报     | <https://github.com/ElesionWoW/BigWigs.git>             |
     | QuickHeal            | 一键治疗     | <https://github.com/Bestoriop/QuickHeal-Turtle-Wow.git> |
 
 ### 插件设置（个人向）
