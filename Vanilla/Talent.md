@@ -31,3 +31,9 @@
 + 射击 Raid (Turtle WoW)
   
   ![TW_Talent_Hunter_Marksmanship_Raid](/Images/TW_Talent_Hunter_Marksmanship_Raid.jpg)
+
+## 盗贼
+
++ 刺杀 Pvp (Turtle WoW)
+
+  ![TW_Talent_Rogue_Assassination_Pvp](/Images/TW_Talent_Rogue_Assassination_Pvp.jpg)
