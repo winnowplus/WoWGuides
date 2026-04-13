@@ -10,13 +10,13 @@
   
   ![TW_Talent_Paladin_Retribution_Raid](/Images/TW_Talent_Paladin_Retribution_Raid.jpg)
 
-+ 防护 Solo (Turtle WoW)
-  
-  ![TW_Talent_Paladin_Protection_Solo](/Images/TW_Talent_Paladin_Protection_Solo.jpg)
-
 + 防护 Raid (Turtle WoW)
   
   ![TW_Talent_Paladin_Protection_Raid](/Images/TW_Talent_Paladin_Protection_Raid.jpg)
+
++ 防护 Solo (Turtle WoW)
+  
+  ![TW_Talent_Paladin_Protection_Solo](/Images/TW_Talent_Paladin_Protection_Solo.jpg)
 
 + 神圣 Raid (Turtle WoW)
   
