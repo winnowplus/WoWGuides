@@ -24,13 +24,17 @@
 
 ## 猎人
 
-+ 兽王 (Turtle WoW)
-
-  ![TW_Talent_Hunter_BeastMastery](/Images/TW_Talent_Hunter_BeastMastery.jpg)
++ 射击 Pvp (Turtle WoW)
+  
+  ![TW_Talent_Hunter_Marksmanship_Pvp](/Images/TW_Talent_Hunter_Marksmanship_Pvp.jpg)
 
 + 射击 Raid (Turtle WoW)
   
   ![TW_Talent_Hunter_Marksmanship_Raid](/Images/TW_Talent_Hunter_Marksmanship_Raid.jpg)
+
++ 兽王 (Turtle WoW)
+
+  ![TW_Talent_Hunter_BeastMastery](/Images/TW_Talent_Hunter_BeastMastery.jpg)
 
 ## 盗贼
 
