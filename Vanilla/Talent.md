@@ -2,42 +2,42 @@
 
 ## 圣骑士
 
-+ 惩戒 Pvp (Turtle WoW)
++ 惩戒 Pvp (Turtle WoW 1.18.1)
 
   ![TW_Talent_Paladin_Retribution_Pvp](/Images/TW_Talent_Paladin_Retribution_Pvp.jpg)
 
-+ 惩戒 Raid (Turtle WoW)
++ 惩戒 Raid (Turtle WoW 1.18.1)
   
   ![TW_Talent_Paladin_Retribution_Raid](/Images/TW_Talent_Paladin_Retribution_Raid.jpg)
 
-+ 防护 Raid (Turtle WoW)
++ 防护 Raid (Turtle WoW 1.18.1)
   
   ![TW_Talent_Paladin_Protection_Raid](/Images/TW_Talent_Paladin_Protection_Raid.jpg)
 
-+ 防护 Solo (Turtle WoW)
++ 防护 Solo (Turtle WoW 1.18.1)
   
   ![TW_Talent_Paladin_Protection_Solo](/Images/TW_Talent_Paladin_Protection_Solo.jpg)
 
-+ 神圣 Raid (Turtle WoW)
++ 神圣 Raid (Turtle WoW 1.18.1)
   
   ![TW_Talent_Paladin_Holy_Raid](/Images/TW_Talent_Paladin_Holy_Raid.jpg)
 
 ## 猎人
 
-+ 射击 Pvp (Turtle WoW)
++ 射击 Pvp (Turtle WoW 1.18.1)
   
   ![TW_Talent_Hunter_Marksmanship_Pvp](/Images/TW_Talent_Hunter_Marksmanship_Pvp.jpg)
 
-+ 射击 Raid (Turtle WoW)
++ ~~射击 Raid (Turtle WoW)~~
   
   ![TW_Talent_Hunter_Marksmanship_Raid](/Images/TW_Talent_Hunter_Marksmanship_Raid.jpg)
 
-+ 兽王 (Turtle WoW)
++ 兽王 (Turtle WoW 1.18.1)
 
   ![TW_Talent_Hunter_BeastMastery](/Images/TW_Talent_Hunter_BeastMastery.jpg)
 
 ## 盗贼
 
-+ 刺杀 Pvp (Turtle WoW)
++ 刺杀 Pvp (Turtle WoW 1.18.1)
 
   ![TW_Talent_Rogue_Assassination_Pvp](/Images/TW_Talent_Rogue_Assassination_Pvp.jpg)
